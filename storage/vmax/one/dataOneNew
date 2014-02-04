@@ -1,0 +1,1414 @@
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB11551-01
+Last update time      : 07:49:18 PM on Thu Feb 02,2012
+
+Group last update time: 07:49:18 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5e746 [alias: 10000000c9c5e746/10000000c9c5e746]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  0161  07E:0 Not Visible                0        1024 PSDBLB11550-553-Cluster*
+  0162  07E:0 Not Visible                1        1024 PSDBLB11550-553-Cluster*
+  0163  07E:0 Not Visible                2        1024 PSDBLB11550-553-Cluster*
+  0164  07E:0 Not Visible                3  (M) 204803 PSDBLB11550-553-Cluster*
+  0168  07E:0 Not Visible                4  (M) 204803 PSDBLB11550-553-Cluster*
+  016C  07E:0 Not Visible                5  (M) 204803 PSDBLB11550-553-Cluster*
+  0170  07E:0 Not Visible                6  (M) 204803 PSDBLB11550-553-Cluster*
+  0174  07E:0 Not Visible                7  (M) 204803 PSDBLB11550-553-Cluster*
+  0178  07E:0 Not Visible                8  (M) 204803 PSDBLB11550-553-Cluster*
+  017C  07E:0 Not Visible                9  (M) 204803 PSDBLB11550-553-Cluster*
+  0180  07E:0 Not Visible                a  (M) 204803 PSDBLB11550-553-Cluster*
+  0184  07E:0 Not Visible                b  (M) 204803 PSDBLB11550-553-Cluster*
+  0188  07E:0 Not Visible                c  (M) 204803 PSDBLB11550-553-Cluster*
+  018C  07E:0 Not Visible                d  (M) 204803 PSDBLB11550-553-Cluster*
+  0190  07E:0 Not Visible                e  (M) 204803 PSDBLB11550-553-Cluster*
+  0194  07E:0 Not Visible                f  (M) 204803 PSDBLB11550-553-Cluster*
+  0198  07E:0 Not Visible               10       17408 PSDBLB11550-553-Cluster*
+  0199  07E:0 Not Visible               11       17408 PSDBLB11550-553-Cluster*
+  019A  07E:0 Not Visible               12       17408 PSDBLB11550-553-Cluster*
+  019B  07E:0 Not Visible               13       17408 PSDBLB11550-553-Cluster*
+  019C  07E:0 Not Visible               14       17408 PSDBLB11550-553-Cluster*
+  019D  07E:0 Not Visible               15       17408 PSDBLB11550-553-Cluster*
+  019E  07E:0 Not Visible               16       17408 PSDBLB11550-553-Cluster*
+  019F  07E:0 Not Visible               17       17408 PSDBLB11550-553-Cluster*
+  01A0  07E:0 Not Visible               18       17408 PSDBLB11550-553-Cluster*
+  01A1  07E:0 Not Visible               19       17408 PSDBLB11550-553-Cluster*
+  01A2  07E:0 Not Visible               1a       17408 PSDBLB11550-553-Cluster*
+  01A3  07E:0 Not Visible               1b       17408 PSDBLB11550-553-Cluster*
+  01A4  07E:0 Not Visible               1c      102400 PSDBLB11550-553-Cluster*
+  01A5  07E:0 Not Visible               1d      102400 PSDBLB11550-553-Cluster*
+  01A6  07E:0 Not Visible               1e      102400 PSDBLB11550-553-Cluster*
+  01A7  07E:0 Not Visible               1f      102400 PSDBLB11550-553-Cluster*
+  01A8  07E:0 Not Visible               20      102400 PSDBLB11550-553-Cluster*
+  01A9  07E:0 Not Visible               21  (M) 204803 PSDBLB11550-553-Cluster*
+  01AD  07E:0 Not Visible               22  (M) 204803 PSDBLB11550-553-Cluster*
+  01B1  07E:0 Not Visible               23  (M) 204803 PSDBLB11550-553-Cluster*
+  01B5  07E:0 Not Visible               24  (M) 204803 PSDBLB11550-553-Cluster*
+  01B9  07E:0 Not Visible               25  (M) 204803 PSDBLB11550-553-Cluster*
+  01BD  07E:0 Not Visible               26  (M) 204803 PSDBLB11550-553-Cluster*
+  01C1  07E:0 Not Visible               27  (M) 204803 PSDBLB11550-553-Cluster*
+  01C5  07E:0 Not Visible               28  (M) 204803 PSDBLB11550-553-Cluster*
+  03D2  07E:0 Not Visible               36  (M) 204803 PSDBLB11550-553-Cluster*
+  0492  07E:0 Not Visible               29  (M) 204803 PSDBLB11550-553-Cluster*
+  0496  07E:0 Not Visible               2a  (M) 204803 PSDBLB11550-553-Cluster*
+  049A  07E:0 Not Visible               2b  (M) 204803 PSDBLB11550-553-Cluster*
+  049E  07E:0 Not Visible               2c  (M) 204803 PSDBLB11550-553-Cluster*
+  04A2  07E:0 Not Visible               2d  (M) 204803 PSDBLB11550-553-Cluster*
+  04A6  07E:0 Not Visible               2e  (M) 204803 PSDBLB11550-553-Cluster*
+  04AA  07E:0 Not Visible               2f  (M) 204803 PSDBLB11550-553-Cluster*
+  04AE  07E:0 Not Visible               30  (M) 204803 PSDBLB11550-553-Cluster*
+  04B2  07E:0 Not Visible               31  (M) 204803 PSDBLB11550-553-Cluster*
+  04B6  07E:0 Not Visible               32  (M) 204803 PSDBLB11550-553-Cluster*
+  04BA  07E:0 Not Visible               33  (M) 204803 PSDBLB11550-553-Cluster*
+  04BE  07E:0 Not Visible               34  (M) 204803 PSDBLB11550-553-Cluster*
+  04C2  07E:0 Not Visible               35  (M) 204803 PSDBLB11550-553-Cluster*
+  0590  07E:0 Not Visible               3b       17408 PSDBLB11550-553-Cluster*
+  0591  07E:0 Not Visible               3c       17408 PSDBLB11550-553-Cluster*
+  0592  07E:0 Not Visible               3d       17408 PSDBLB11550-553-Cluster*
+  0593  07E:0 Not Visible               3e       17408 PSDBLB11550-553-Cluster*
+  0594  07E:0 Not Visible               3f       17408 PSDBLB11550-553-Cluster*
+  0595  07E:0 Not Visible               40       17408 PSDBLB11550-553-Cluster*
+  0596  07E:0 Not Visible               41       17408 PSDBLB11550-553-Cluster*
+  0597  07E:0 Not Visible               42       17408 PSDBLB11550-553-Cluster*
+  0598  07E:0 Not Visible               43       17408 PSDBLB11550-553-Cluster*
+  0599  07E:0 Not Visible               44       17408 PSDBLB11550-553-Cluster*
+  059A  07E:0 Not Visible               45       17408 PSDBLB11550-553-Cluster*
+  059B  07E:0 Not Visible               46       17408 PSDBLB11550-553-Cluster*
+  059C  07E:0 Not Visible               47       17408 PSDBLB11550-553-Cluster*
+  059D  07E:0 Not Visible               48       17408 PSDBLB11550-553-Cluster*
+  059E  07E:0 Not Visible               49       17408 PSDBLB11550-553-Cluster*
+  059F  07E:0 Not Visible               4a       17408 PSDBLB11550-553-Cluster*
+  05A0  07E:0 Not Visible               4b       17408 PSDBLB11550-553-Cluster*
+  05A1  07E:0 Not Visible               4c       17408 PSDBLB11550-553-Cluster*
+  05A2  07E:0 Not Visible               4d       17408 PSDBLB11550-553-Cluster*
+  05A3  07E:0 Not Visible               4e       17408 PSDBLB11550-553-Cluster*
+  05A4  07E:0 Not Visible               4f       17408 PSDBLB11550-553-Cluster*
+  05A5  07E:0 Not Visible               50       17408 PSDBLB11550-553-Cluster*
+  05A6  07E:0 Not Visible               51       17408 PSDBLB11550-553-Cluster*
+  05A7  07E:0 Not Visible               52       17408 PSDBLB11550-553-Cluster*
+  05A8  07E:0 Not Visible               53       17408 PSDBLB11550-553-Cluster*
+  05A9  07E:0 Not Visible               54       17408 PSDBLB11550-553-Cluster*
+  05AA  07E:0 Not Visible               55       17408 PSDBLB11550-553-Cluster*
+  05AB  07E:0 Not Visible               56       17408 PSDBLB11550-553-Cluster*
+  05AC  07E:0 Not Visible               57       17408 PSDBLB11550-553-Cluster*
+  05AD  07E:0 Not Visible               58       17408 PSDBLB11550-553-Cluster*
+  05AE  07E:0 Not Visible               59       17408 PSDBLB11550-553-Cluster*
+  05AF  07E:0 Not Visible               5a       17408 PSDBLB11550-553-Cluster*
+  05B0  07E:0 Not Visible               5b       17408 PSDBLB11550-553-Cluster*
+  05B1  07E:0 Not Visible               5c       17408 PSDBLB11550-553-Cluster*
+  05B2  07E:0 Not Visible               5d       17408 PSDBLB11550-553-Cluster*
+  05B3  07E:0 Not Visible               5e       17408 PSDBLB11550-553-Cluster*
+                                                ------
+  Total Capacity                                8518761
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB11553-01
+Last update time      : 07:49:19 PM on Thu Feb 02,2012
+
+Group last update time: 07:49:19 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5d74c [alias: 10000000c9c5d74c/10000000c9c5d74c]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  0161  07E:0 Not Visible                0        1024 PSDBLB11550-553-Cluster*
+  0162  07E:0 Not Visible                1        1024 PSDBLB11550-553-Cluster*
+  0163  07E:0 Not Visible                2        1024 PSDBLB11550-553-Cluster*
+  0164  07E:0 Not Visible                3  (M) 204803 PSDBLB11550-553-Cluster*
+  0168  07E:0 Not Visible                4  (M) 204803 PSDBLB11550-553-Cluster*
+  016C  07E:0 Not Visible                5  (M) 204803 PSDBLB11550-553-Cluster*
+  0170  07E:0 Not Visible                6  (M) 204803 PSDBLB11550-553-Cluster*
+  0174  07E:0 Not Visible                7  (M) 204803 PSDBLB11550-553-Cluster*
+  0178  07E:0 Not Visible                8  (M) 204803 PSDBLB11550-553-Cluster*
+  017C  07E:0 Not Visible                9  (M) 204803 PSDBLB11550-553-Cluster*
+  0180  07E:0 Not Visible                a  (M) 204803 PSDBLB11550-553-Cluster*
+  0184  07E:0 Not Visible                b  (M) 204803 PSDBLB11550-553-Cluster*
+  0188  07E:0 Not Visible                c  (M) 204803 PSDBLB11550-553-Cluster*
+  018C  07E:0 Not Visible                d  (M) 204803 PSDBLB11550-553-Cluster*
+  0190  07E:0 Not Visible                e  (M) 204803 PSDBLB11550-553-Cluster*
+  0194  07E:0 Not Visible                f  (M) 204803 PSDBLB11550-553-Cluster*
+  0198  07E:0 Not Visible               10       17408 PSDBLB11550-553-Cluster*
+  0199  07E:0 Not Visible               11       17408 PSDBLB11550-553-Cluster*
+  019A  07E:0 Not Visible               12       17408 PSDBLB11550-553-Cluster*
+  019B  07E:0 Not Visible               13       17408 PSDBLB11550-553-Cluster*
+  019C  07E:0 Not Visible               14       17408 PSDBLB11550-553-Cluster*
+  019D  07E:0 Not Visible               15       17408 PSDBLB11550-553-Cluster*
+  019E  07E:0 Not Visible               16       17408 PSDBLB11550-553-Cluster*
+  019F  07E:0 Not Visible               17       17408 PSDBLB11550-553-Cluster*
+  01A0  07E:0 Not Visible               18       17408 PSDBLB11550-553-Cluster*
+  01A1  07E:0 Not Visible               19       17408 PSDBLB11550-553-Cluster*
+  01A2  07E:0 Not Visible               1a       17408 PSDBLB11550-553-Cluster*
+  01A3  07E:0 Not Visible               1b       17408 PSDBLB11550-553-Cluster*
+  01A4  07E:0 Not Visible               1c      102400 PSDBLB11550-553-Cluster*
+  01A5  07E:0 Not Visible               1d      102400 PSDBLB11550-553-Cluster*
+  01A6  07E:0 Not Visible               1e      102400 PSDBLB11550-553-Cluster*
+  01A7  07E:0 Not Visible               1f      102400 PSDBLB11550-553-Cluster*
+  01A8  07E:0 Not Visible               20      102400 PSDBLB11550-553-Cluster*
+  01A9  07E:0 Not Visible               21  (M) 204803 PSDBLB11550-553-Cluster*
+  01AD  07E:0 Not Visible               22  (M) 204803 PSDBLB11550-553-Cluster*
+  01B1  07E:0 Not Visible               23  (M) 204803 PSDBLB11550-553-Cluster*
+  01B5  07E:0 Not Visible               24  (M) 204803 PSDBLB11550-553-Cluster*
+  01B9  07E:0 Not Visible               25  (M) 204803 PSDBLB11550-553-Cluster*
+  01BD  07E:0 Not Visible               26  (M) 204803 PSDBLB11550-553-Cluster*
+  01C1  07E:0 Not Visible               27  (M) 204803 PSDBLB11550-553-Cluster*
+  01C5  07E:0 Not Visible               28  (M) 204803 PSDBLB11550-553-Cluster*
+  03D2  07E:0 Not Visible               36  (M) 204803 PSDBLB11550-553-Cluster*
+  0492  07E:0 Not Visible               29  (M) 204803 PSDBLB11550-553-Cluster*
+  0496  07E:0 Not Visible               2a  (M) 204803 PSDBLB11550-553-Cluster*
+  049A  07E:0 Not Visible               2b  (M) 204803 PSDBLB11550-553-Cluster*
+  049E  07E:0 Not Visible               2c  (M) 204803 PSDBLB11550-553-Cluster*
+  04A2  07E:0 Not Visible               2d  (M) 204803 PSDBLB11550-553-Cluster*
+  04A6  07E:0 Not Visible               2e  (M) 204803 PSDBLB11550-553-Cluster*
+  04AA  07E:0 Not Visible               2f  (M) 204803 PSDBLB11550-553-Cluster*
+  04AE  07E:0 Not Visible               30  (M) 204803 PSDBLB11550-553-Cluster*
+  04B2  07E:0 Not Visible               31  (M) 204803 PSDBLB11550-553-Cluster*
+  04B6  07E:0 Not Visible               32  (M) 204803 PSDBLB11550-553-Cluster*
+  04BA  07E:0 Not Visible               33  (M) 204803 PSDBLB11550-553-Cluster*
+  04BE  07E:0 Not Visible               34  (M) 204803 PSDBLB11550-553-Cluster*
+  04C2  07E:0 Not Visible               35  (M) 204803 PSDBLB11550-553-Cluster*
+  0590  07E:0 Not Visible               3b       17408 PSDBLB11550-553-Cluster*
+  0591  07E:0 Not Visible               3c       17408 PSDBLB11550-553-Cluster*
+  0592  07E:0 Not Visible               3d       17408 PSDBLB11550-553-Cluster*
+  0593  07E:0 Not Visible               3e       17408 PSDBLB11550-553-Cluster*
+  0594  07E:0 Not Visible               3f       17408 PSDBLB11550-553-Cluster*
+  0595  07E:0 Not Visible               40       17408 PSDBLB11550-553-Cluster*
+  0596  07E:0 Not Visible               41       17408 PSDBLB11550-553-Cluster*
+  0597  07E:0 Not Visible               42       17408 PSDBLB11550-553-Cluster*
+  0598  07E:0 Not Visible               43       17408 PSDBLB11550-553-Cluster*
+  0599  07E:0 Not Visible               44       17408 PSDBLB11550-553-Cluster*
+  059A  07E:0 Not Visible               45       17408 PSDBLB11550-553-Cluster*
+  059B  07E:0 Not Visible               46       17408 PSDBLB11550-553-Cluster*
+  059C  07E:0 Not Visible               47       17408 PSDBLB11550-553-Cluster*
+  059D  07E:0 Not Visible               48       17408 PSDBLB11550-553-Cluster*
+  059E  07E:0 Not Visible               49       17408 PSDBLB11550-553-Cluster*
+  059F  07E:0 Not Visible               4a       17408 PSDBLB11550-553-Cluster*
+  05A0  07E:0 Not Visible               4b       17408 PSDBLB11550-553-Cluster*
+  05A1  07E:0 Not Visible               4c       17408 PSDBLB11550-553-Cluster*
+  05A2  07E:0 Not Visible               4d       17408 PSDBLB11550-553-Cluster*
+  05A3  07E:0 Not Visible               4e       17408 PSDBLB11550-553-Cluster*
+  05A4  07E:0 Not Visible               4f       17408 PSDBLB11550-553-Cluster*
+  05A5  07E:0 Not Visible               50       17408 PSDBLB11550-553-Cluster*
+  05A6  07E:0 Not Visible               51       17408 PSDBLB11550-553-Cluster*
+  05A7  07E:0 Not Visible               52       17408 PSDBLB11550-553-Cluster*
+  05A8  07E:0 Not Visible               53       17408 PSDBLB11550-553-Cluster*
+  05A9  07E:0 Not Visible               54       17408 PSDBLB11550-553-Cluster*
+  05AA  07E:0 Not Visible               55       17408 PSDBLB11550-553-Cluster*
+  05AB  07E:0 Not Visible               56       17408 PSDBLB11550-553-Cluster*
+  05AC  07E:0 Not Visible               57       17408 PSDBLB11550-553-Cluster*
+  05AD  07E:0 Not Visible               58       17408 PSDBLB11550-553-Cluster*
+  05AE  07E:0 Not Visible               59       17408 PSDBLB11550-553-Cluster*
+  05AF  07E:0 Not Visible               5a       17408 PSDBLB11550-553-Cluster*
+  05B0  07E:0 Not Visible               5b       17408 PSDBLB11550-553-Cluster*
+  05B1  07E:0 Not Visible               5c       17408 PSDBLB11550-553-Cluster*
+  05B2  07E:0 Not Visible               5d       17408 PSDBLB11550-553-Cluster*
+  05B3  07E:0 Not Visible               5e       17408 PSDBLB11550-553-Cluster*
+                                                ------
+  Total Capacity                                8518761
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB11550-01
+Last update time      : 07:49:18 PM on Thu Feb 02,2012
+
+Group last update time: 07:49:18 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5e744 [alias: 10000000c9c5e744/10000000c9c5e744]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  0161  07E:0 Not Visible                0        1024 PSDBLB11550-553-Cluster*
+  0162  07E:0 Not Visible                1        1024 PSDBLB11550-553-Cluster*
+  0163  07E:0 Not Visible                2        1024 PSDBLB11550-553-Cluster*
+  0164  07E:0 Not Visible                3  (M) 204803 PSDBLB11550-553-Cluster*
+  0168  07E:0 Not Visible                4  (M) 204803 PSDBLB11550-553-Cluster*
+  016C  07E:0 Not Visible                5  (M) 204803 PSDBLB11550-553-Cluster*
+  0170  07E:0 Not Visible                6  (M) 204803 PSDBLB11550-553-Cluster*
+  0174  07E:0 Not Visible                7  (M) 204803 PSDBLB11550-553-Cluster*
+  0178  07E:0 Not Visible                8  (M) 204803 PSDBLB11550-553-Cluster*
+  017C  07E:0 Not Visible                9  (M) 204803 PSDBLB11550-553-Cluster*
+  0180  07E:0 Not Visible                a  (M) 204803 PSDBLB11550-553-Cluster*
+  0184  07E:0 Not Visible                b  (M) 204803 PSDBLB11550-553-Cluster*
+  0188  07E:0 Not Visible                c  (M) 204803 PSDBLB11550-553-Cluster*
+  018C  07E:0 Not Visible                d  (M) 204803 PSDBLB11550-553-Cluster*
+  0190  07E:0 Not Visible                e  (M) 204803 PSDBLB11550-553-Cluster*
+  0194  07E:0 Not Visible                f  (M) 204803 PSDBLB11550-553-Cluster*
+  0198  07E:0 Not Visible               10       17408 PSDBLB11550-553-Cluster*
+  0199  07E:0 Not Visible               11       17408 PSDBLB11550-553-Cluster*
+  019A  07E:0 Not Visible               12       17408 PSDBLB11550-553-Cluster*
+  019B  07E:0 Not Visible               13       17408 PSDBLB11550-553-Cluster*
+  019C  07E:0 Not Visible               14       17408 PSDBLB11550-553-Cluster*
+  019D  07E:0 Not Visible               15       17408 PSDBLB11550-553-Cluster*
+  019E  07E:0 Not Visible               16       17408 PSDBLB11550-553-Cluster*
+  019F  07E:0 Not Visible               17       17408 PSDBLB11550-553-Cluster*
+  01A0  07E:0 Not Visible               18       17408 PSDBLB11550-553-Cluster*
+  01A1  07E:0 Not Visible               19       17408 PSDBLB11550-553-Cluster*
+  01A2  07E:0 Not Visible               1a       17408 PSDBLB11550-553-Cluster*
+  01A3  07E:0 Not Visible               1b       17408 PSDBLB11550-553-Cluster*
+  01A4  07E:0 Not Visible               1c      102400 PSDBLB11550-553-Cluster*
+  01A5  07E:0 Not Visible               1d      102400 PSDBLB11550-553-Cluster*
+  01A6  07E:0 Not Visible               1e      102400 PSDBLB11550-553-Cluster*
+  01A7  07E:0 Not Visible               1f      102400 PSDBLB11550-553-Cluster*
+  01A8  07E:0 Not Visible               20      102400 PSDBLB11550-553-Cluster*
+  01A9  07E:0 Not Visible               21  (M) 204803 PSDBLB11550-553-Cluster*
+  01AD  07E:0 Not Visible               22  (M) 204803 PSDBLB11550-553-Cluster*
+  01B1  07E:0 Not Visible               23  (M) 204803 PSDBLB11550-553-Cluster*
+  01B5  07E:0 Not Visible               24  (M) 204803 PSDBLB11550-553-Cluster*
+  01B9  07E:0 Not Visible               25  (M) 204803 PSDBLB11550-553-Cluster*
+  01BD  07E:0 Not Visible               26  (M) 204803 PSDBLB11550-553-Cluster*
+  01C1  07E:0 Not Visible               27  (M) 204803 PSDBLB11550-553-Cluster*
+  01C5  07E:0 Not Visible               28  (M) 204803 PSDBLB11550-553-Cluster*
+  03D2  07E:0 Not Visible               36  (M) 204803 PSDBLB11550-553-Cluster*
+  0492  07E:0 Not Visible               29  (M) 204803 PSDBLB11550-553-Cluster*
+  0496  07E:0 Not Visible               2a  (M) 204803 PSDBLB11550-553-Cluster*
+  049A  07E:0 Not Visible               2b  (M) 204803 PSDBLB11550-553-Cluster*
+  049E  07E:0 Not Visible               2c  (M) 204803 PSDBLB11550-553-Cluster*
+  04A2  07E:0 Not Visible               2d  (M) 204803 PSDBLB11550-553-Cluster*
+  04A6  07E:0 Not Visible               2e  (M) 204803 PSDBLB11550-553-Cluster*
+  04AA  07E:0 Not Visible               2f  (M) 204803 PSDBLB11550-553-Cluster*
+  04AE  07E:0 Not Visible               30  (M) 204803 PSDBLB11550-553-Cluster*
+  04B2  07E:0 Not Visible               31  (M) 204803 PSDBLB11550-553-Cluster*
+  04B6  07E:0 Not Visible               32  (M) 204803 PSDBLB11550-553-Cluster*
+  04BA  07E:0 Not Visible               33  (M) 204803 PSDBLB11550-553-Cluster*
+  04BE  07E:0 Not Visible               34  (M) 204803 PSDBLB11550-553-Cluster*
+  04C2  07E:0 Not Visible               35  (M) 204803 PSDBLB11550-553-Cluster*
+  0590  07E:0 Not Visible               3b       17408 PSDBLB11550-553-Cluster*
+  0591  07E:0 Not Visible               3c       17408 PSDBLB11550-553-Cluster*
+  0592  07E:0 Not Visible               3d       17408 PSDBLB11550-553-Cluster*
+  0593  07E:0 Not Visible               3e       17408 PSDBLB11550-553-Cluster*
+  0594  07E:0 Not Visible               3f       17408 PSDBLB11550-553-Cluster*
+  0595  07E:0 Not Visible               40       17408 PSDBLB11550-553-Cluster*
+  0596  07E:0 Not Visible               41       17408 PSDBLB11550-553-Cluster*
+  0597  07E:0 Not Visible               42       17408 PSDBLB11550-553-Cluster*
+  0598  07E:0 Not Visible               43       17408 PSDBLB11550-553-Cluster*
+  0599  07E:0 Not Visible               44       17408 PSDBLB11550-553-Cluster*
+  059A  07E:0 Not Visible               45       17408 PSDBLB11550-553-Cluster*
+  059B  07E:0 Not Visible               46       17408 PSDBLB11550-553-Cluster*
+  059C  07E:0 Not Visible               47       17408 PSDBLB11550-553-Cluster*
+  059D  07E:0 Not Visible               48       17408 PSDBLB11550-553-Cluster*
+  059E  07E:0 Not Visible               49       17408 PSDBLB11550-553-Cluster*
+  059F  07E:0 Not Visible               4a       17408 PSDBLB11550-553-Cluster*
+  05A0  07E:0 Not Visible               4b       17408 PSDBLB11550-553-Cluster*
+  05A1  07E:0 Not Visible               4c       17408 PSDBLB11550-553-Cluster*
+  05A2  07E:0 Not Visible               4d       17408 PSDBLB11550-553-Cluster*
+  05A3  07E:0 Not Visible               4e       17408 PSDBLB11550-553-Cluster*
+  05A4  07E:0 Not Visible               4f       17408 PSDBLB11550-553-Cluster*
+  05A5  07E:0 Not Visible               50       17408 PSDBLB11550-553-Cluster*
+  05A6  07E:0 Not Visible               51       17408 PSDBLB11550-553-Cluster*
+  05A7  07E:0 Not Visible               52       17408 PSDBLB11550-553-Cluster*
+  05A8  07E:0 Not Visible               53       17408 PSDBLB11550-553-Cluster*
+  05A9  07E:0 Not Visible               54       17408 PSDBLB11550-553-Cluster*
+  05AA  07E:0 Not Visible               55       17408 PSDBLB11550-553-Cluster*
+  05AB  07E:0 Not Visible               56       17408 PSDBLB11550-553-Cluster*
+  05AC  07E:0 Not Visible               57       17408 PSDBLB11550-553-Cluster*
+  05AD  07E:0 Not Visible               58       17408 PSDBLB11550-553-Cluster*
+  05AE  07E:0 Not Visible               59       17408 PSDBLB11550-553-Cluster*
+  05AF  07E:0 Not Visible               5a       17408 PSDBLB11550-553-Cluster*
+  05B0  07E:0 Not Visible               5b       17408 PSDBLB11550-553-Cluster*
+  05B1  07E:0 Not Visible               5c       17408 PSDBLB11550-553-Cluster*
+  05B2  07E:0 Not Visible               5d       17408 PSDBLB11550-553-Cluster*
+  05B3  07E:0 Not Visible               5e       17408 PSDBLB11550-553-Cluster*
+                                                ------
+  Total Capacity                                8518761
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB11552-01
+Last update time      : 07:49:18 PM on Thu Feb 02,2012
+
+Group last update time: 07:49:18 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5e694 [alias: 10000000c9c5e694/10000000c9c5e694]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  0161  07E:0 Not Visible                0        1024 PSDBLB11550-553-Cluster*
+  0162  07E:0 Not Visible                1        1024 PSDBLB11550-553-Cluster*
+  0163  07E:0 Not Visible                2        1024 PSDBLB11550-553-Cluster*
+  0164  07E:0 Not Visible                3  (M) 204803 PSDBLB11550-553-Cluster*
+  0168  07E:0 Not Visible                4  (M) 204803 PSDBLB11550-553-Cluster*
+  016C  07E:0 Not Visible                5  (M) 204803 PSDBLB11550-553-Cluster*
+  0170  07E:0 Not Visible                6  (M) 204803 PSDBLB11550-553-Cluster*
+  0174  07E:0 Not Visible                7  (M) 204803 PSDBLB11550-553-Cluster*
+  0178  07E:0 Not Visible                8  (M) 204803 PSDBLB11550-553-Cluster*
+  017C  07E:0 Not Visible                9  (M) 204803 PSDBLB11550-553-Cluster*
+  0180  07E:0 Not Visible                a  (M) 204803 PSDBLB11550-553-Cluster*
+  0184  07E:0 Not Visible                b  (M) 204803 PSDBLB11550-553-Cluster*
+  0188  07E:0 Not Visible                c  (M) 204803 PSDBLB11550-553-Cluster*
+  018C  07E:0 Not Visible                d  (M) 204803 PSDBLB11550-553-Cluster*
+  0190  07E:0 Not Visible                e  (M) 204803 PSDBLB11550-553-Cluster*
+  0194  07E:0 Not Visible                f  (M) 204803 PSDBLB11550-553-Cluster*
+  0198  07E:0 Not Visible               10       17408 PSDBLB11550-553-Cluster*
+  0199  07E:0 Not Visible               11       17408 PSDBLB11550-553-Cluster*
+  019A  07E:0 Not Visible               12       17408 PSDBLB11550-553-Cluster*
+  019B  07E:0 Not Visible               13       17408 PSDBLB11550-553-Cluster*
+  019C  07E:0 Not Visible               14       17408 PSDBLB11550-553-Cluster*
+  019D  07E:0 Not Visible               15       17408 PSDBLB11550-553-Cluster*
+  019E  07E:0 Not Visible               16       17408 PSDBLB11550-553-Cluster*
+  019F  07E:0 Not Visible               17       17408 PSDBLB11550-553-Cluster*
+  01A0  07E:0 Not Visible               18       17408 PSDBLB11550-553-Cluster*
+  01A1  07E:0 Not Visible               19       17408 PSDBLB11550-553-Cluster*
+  01A2  07E:0 Not Visible               1a       17408 PSDBLB11550-553-Cluster*
+  01A3  07E:0 Not Visible               1b       17408 PSDBLB11550-553-Cluster*
+  01A4  07E:0 Not Visible               1c      102400 PSDBLB11550-553-Cluster*
+  01A5  07E:0 Not Visible               1d      102400 PSDBLB11550-553-Cluster*
+  01A6  07E:0 Not Visible               1e      102400 PSDBLB11550-553-Cluster*
+  01A7  07E:0 Not Visible               1f      102400 PSDBLB11550-553-Cluster*
+  01A8  07E:0 Not Visible               20      102400 PSDBLB11550-553-Cluster*
+  01A9  07E:0 Not Visible               21  (M) 204803 PSDBLB11550-553-Cluster*
+  01AD  07E:0 Not Visible               22  (M) 204803 PSDBLB11550-553-Cluster*
+  01B1  07E:0 Not Visible               23  (M) 204803 PSDBLB11550-553-Cluster*
+  01B5  07E:0 Not Visible               24  (M) 204803 PSDBLB11550-553-Cluster*
+  01B9  07E:0 Not Visible               25  (M) 204803 PSDBLB11550-553-Cluster*
+  01BD  07E:0 Not Visible               26  (M) 204803 PSDBLB11550-553-Cluster*
+  01C1  07E:0 Not Visible               27  (M) 204803 PSDBLB11550-553-Cluster*
+  01C5  07E:0 Not Visible               28  (M) 204803 PSDBLB11550-553-Cluster*
+  03D2  07E:0 Not Visible               36  (M) 204803 PSDBLB11550-553-Cluster*
+  0492  07E:0 Not Visible               29  (M) 204803 PSDBLB11550-553-Cluster*
+  0496  07E:0 Not Visible               2a  (M) 204803 PSDBLB11550-553-Cluster*
+  049A  07E:0 Not Visible               2b  (M) 204803 PSDBLB11550-553-Cluster*
+  049E  07E:0 Not Visible               2c  (M) 204803 PSDBLB11550-553-Cluster*
+  04A2  07E:0 Not Visible               2d  (M) 204803 PSDBLB11550-553-Cluster*
+  04A6  07E:0 Not Visible               2e  (M) 204803 PSDBLB11550-553-Cluster*
+  04AA  07E:0 Not Visible               2f  (M) 204803 PSDBLB11550-553-Cluster*
+  04AE  07E:0 Not Visible               30  (M) 204803 PSDBLB11550-553-Cluster*
+  04B2  07E:0 Not Visible               31  (M) 204803 PSDBLB11550-553-Cluster*
+  04B6  07E:0 Not Visible               32  (M) 204803 PSDBLB11550-553-Cluster*
+  04BA  07E:0 Not Visible               33  (M) 204803 PSDBLB11550-553-Cluster*
+  04BE  07E:0 Not Visible               34  (M) 204803 PSDBLB11550-553-Cluster*
+  04C2  07E:0 Not Visible               35  (M) 204803 PSDBLB11550-553-Cluster*
+  0590  07E:0 Not Visible               3b       17408 PSDBLB11550-553-Cluster*
+  0591  07E:0 Not Visible               3c       17408 PSDBLB11550-553-Cluster*
+  0592  07E:0 Not Visible               3d       17408 PSDBLB11550-553-Cluster*
+  0593  07E:0 Not Visible               3e       17408 PSDBLB11550-553-Cluster*
+  0594  07E:0 Not Visible               3f       17408 PSDBLB11550-553-Cluster*
+  0595  07E:0 Not Visible               40       17408 PSDBLB11550-553-Cluster*
+  0596  07E:0 Not Visible               41       17408 PSDBLB11550-553-Cluster*
+  0597  07E:0 Not Visible               42       17408 PSDBLB11550-553-Cluster*
+  0598  07E:0 Not Visible               43       17408 PSDBLB11550-553-Cluster*
+  0599  07E:0 Not Visible               44       17408 PSDBLB11550-553-Cluster*
+  059A  07E:0 Not Visible               45       17408 PSDBLB11550-553-Cluster*
+  059B  07E:0 Not Visible               46       17408 PSDBLB11550-553-Cluster*
+  059C  07E:0 Not Visible               47       17408 PSDBLB11550-553-Cluster*
+  059D  07E:0 Not Visible               48       17408 PSDBLB11550-553-Cluster*
+  059E  07E:0 Not Visible               49       17408 PSDBLB11550-553-Cluster*
+  059F  07E:0 Not Visible               4a       17408 PSDBLB11550-553-Cluster*
+  05A0  07E:0 Not Visible               4b       17408 PSDBLB11550-553-Cluster*
+  05A1  07E:0 Not Visible               4c       17408 PSDBLB11550-553-Cluster*
+  05A2  07E:0 Not Visible               4d       17408 PSDBLB11550-553-Cluster*
+  05A3  07E:0 Not Visible               4e       17408 PSDBLB11550-553-Cluster*
+  05A4  07E:0 Not Visible               4f       17408 PSDBLB11550-553-Cluster*
+  05A5  07E:0 Not Visible               50       17408 PSDBLB11550-553-Cluster*
+  05A6  07E:0 Not Visible               51       17408 PSDBLB11550-553-Cluster*
+  05A7  07E:0 Not Visible               52       17408 PSDBLB11550-553-Cluster*
+  05A8  07E:0 Not Visible               53       17408 PSDBLB11550-553-Cluster*
+  05A9  07E:0 Not Visible               54       17408 PSDBLB11550-553-Cluster*
+  05AA  07E:0 Not Visible               55       17408 PSDBLB11550-553-Cluster*
+  05AB  07E:0 Not Visible               56       17408 PSDBLB11550-553-Cluster*
+  05AC  07E:0 Not Visible               57       17408 PSDBLB11550-553-Cluster*
+  05AD  07E:0 Not Visible               58       17408 PSDBLB11550-553-Cluster*
+  05AE  07E:0 Not Visible               59       17408 PSDBLB11550-553-Cluster*
+  05AF  07E:0 Not Visible               5a       17408 PSDBLB11550-553-Cluster*
+  05B0  07E:0 Not Visible               5b       17408 PSDBLB11550-553-Cluster*
+  05B1  07E:0 Not Visible               5c       17408 PSDBLB11550-553-Cluster*
+  05B2  07E:0 Not Visible               5d       17408 PSDBLB11550-553-Cluster*
+  05B3  07E:0 Not Visible               5e       17408 PSDBLB11550-553-Cluster*
+                                                ------
+  Total Capacity                                8518761
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB11550-02
+Last update time      : 07:50:55 PM on Thu Feb 02,2012
+
+Group last update time: 07:50:55 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5e10a [alias: 10000000c9c5e10a/10000000c9c5e10a]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  0161  09E:0 Not Visible                0        1024 PSDBLB11550-553-Cluster*
+  0162  09E:0 Not Visible                1        1024 PSDBLB11550-553-Cluster*
+  0163  09E:0 Not Visible                2        1024 PSDBLB11550-553-Cluster*
+  0164  09E:0 Not Visible                3  (M) 204803 PSDBLB11550-553-Cluster*
+  0168  09E:0 Not Visible                4  (M) 204803 PSDBLB11550-553-Cluster*
+  016C  09E:0 Not Visible                5  (M) 204803 PSDBLB11550-553-Cluster*
+  0170  09E:0 Not Visible                6  (M) 204803 PSDBLB11550-553-Cluster*
+  0174  09E:0 Not Visible                7  (M) 204803 PSDBLB11550-553-Cluster*
+  0178  09E:0 Not Visible                8  (M) 204803 PSDBLB11550-553-Cluster*
+  017C  09E:0 Not Visible                9  (M) 204803 PSDBLB11550-553-Cluster*
+  0180  09E:0 Not Visible                a  (M) 204803 PSDBLB11550-553-Cluster*
+  0184  09E:0 Not Visible                b  (M) 204803 PSDBLB11550-553-Cluster*
+  0188  09E:0 Not Visible                c  (M) 204803 PSDBLB11550-553-Cluster*
+  018C  09E:0 Not Visible                d  (M) 204803 PSDBLB11550-553-Cluster*
+  0190  09E:0 Not Visible                e  (M) 204803 PSDBLB11550-553-Cluster*
+  0194  09E:0 Not Visible                f  (M) 204803 PSDBLB11550-553-Cluster*
+  0198  09E:0 Not Visible               10       17408 PSDBLB11550-553-Cluster*
+  0199  09E:0 Not Visible               11       17408 PSDBLB11550-553-Cluster*
+  019A  09E:0 Not Visible               12       17408 PSDBLB11550-553-Cluster*
+  019B  09E:0 Not Visible               13       17408 PSDBLB11550-553-Cluster*
+  019C  09E:0 Not Visible               14       17408 PSDBLB11550-553-Cluster*
+  019D  09E:0 Not Visible               15       17408 PSDBLB11550-553-Cluster*
+  019E  09E:0 Not Visible               16       17408 PSDBLB11550-553-Cluster*
+  019F  09E:0 Not Visible               17       17408 PSDBLB11550-553-Cluster*
+  01A0  09E:0 Not Visible               18       17408 PSDBLB11550-553-Cluster*
+  01A1  09E:0 Not Visible               19       17408 PSDBLB11550-553-Cluster*
+  01A2  09E:0 Not Visible               1a       17408 PSDBLB11550-553-Cluster*
+  01A3  09E:0 Not Visible               1b       17408 PSDBLB11550-553-Cluster*
+  01A4  09E:0 Not Visible               1c      102400 PSDBLB11550-553-Cluster*
+  01A5  09E:0 Not Visible               1d      102400 PSDBLB11550-553-Cluster*
+  01A6  09E:0 Not Visible               1e      102400 PSDBLB11550-553-Cluster*
+  01A7  09E:0 Not Visible               1f      102400 PSDBLB11550-553-Cluster*
+  01A8  09E:0 Not Visible               20      102400 PSDBLB11550-553-Cluster*
+  01A9  09E:0 Not Visible               21  (M) 204803 PSDBLB11550-553-Cluster*
+  01AD  09E:0 Not Visible               22  (M) 204803 PSDBLB11550-553-Cluster*
+  01B1  09E:0 Not Visible               23  (M) 204803 PSDBLB11550-553-Cluster*
+  01B5  09E:0 Not Visible               24  (M) 204803 PSDBLB11550-553-Cluster*
+  01B9  09E:0 Not Visible               25  (M) 204803 PSDBLB11550-553-Cluster*
+  01BD  09E:0 Not Visible               26  (M) 204803 PSDBLB11550-553-Cluster*
+  01C1  09E:0 Not Visible               27  (M) 204803 PSDBLB11550-553-Cluster*
+  01C5  09E:0 Not Visible               28  (M) 204803 PSDBLB11550-553-Cluster*
+  03D2  09E:0 Not Visible               36  (M) 204803 PSDBLB11550-553-Cluster*
+  0492  09E:0 Not Visible               29  (M) 204803 PSDBLB11550-553-Cluster*
+  0496  09E:0 Not Visible               2a  (M) 204803 PSDBLB11550-553-Cluster*
+  049A  09E:0 Not Visible               2b  (M) 204803 PSDBLB11550-553-Cluster*
+  049E  09E:0 Not Visible               2c  (M) 204803 PSDBLB11550-553-Cluster*
+  04A2  09E:0 Not Visible               2d  (M) 204803 PSDBLB11550-553-Cluster*
+  04A6  09E:0 Not Visible               2e  (M) 204803 PSDBLB11550-553-Cluster*
+  04AA  09E:0 Not Visible               2f  (M) 204803 PSDBLB11550-553-Cluster*
+  04AE  09E:0 Not Visible               30  (M) 204803 PSDBLB11550-553-Cluster*
+  04B2  09E:0 Not Visible               31  (M) 204803 PSDBLB11550-553-Cluster*
+  04B6  09E:0 Not Visible               32  (M) 204803 PSDBLB11550-553-Cluster*
+  04BA  09E:0 Not Visible               33  (M) 204803 PSDBLB11550-553-Cluster*
+  04BE  09E:0 Not Visible               34  (M) 204803 PSDBLB11550-553-Cluster*
+  04C2  09E:0 Not Visible               35  (M) 204803 PSDBLB11550-553-Cluster*
+  0590  09E:0 Not Visible               3b       17408 PSDBLB11550-553-Cluster*
+  0591  09E:0 Not Visible               3c       17408 PSDBLB11550-553-Cluster*
+  0592  09E:0 Not Visible               3d       17408 PSDBLB11550-553-Cluster*
+  0593  09E:0 Not Visible               3e       17408 PSDBLB11550-553-Cluster*
+  0594  09E:0 Not Visible               3f       17408 PSDBLB11550-553-Cluster*
+  0595  09E:0 Not Visible               40       17408 PSDBLB11550-553-Cluster*
+  0596  09E:0 Not Visible               41       17408 PSDBLB11550-553-Cluster*
+  0597  09E:0 Not Visible               42       17408 PSDBLB11550-553-Cluster*
+  0598  09E:0 Not Visible               43       17408 PSDBLB11550-553-Cluster*
+  0599  09E:0 Not Visible               44       17408 PSDBLB11550-553-Cluster*
+  059A  09E:0 Not Visible               45       17408 PSDBLB11550-553-Cluster*
+  059B  09E:0 Not Visible               46       17408 PSDBLB11550-553-Cluster*
+  059C  09E:0 Not Visible               47       17408 PSDBLB11550-553-Cluster*
+  059D  09E:0 Not Visible               48       17408 PSDBLB11550-553-Cluster*
+  059E  09E:0 Not Visible               49       17408 PSDBLB11550-553-Cluster*
+  059F  09E:0 Not Visible               4a       17408 PSDBLB11550-553-Cluster*
+  05A0  09E:0 Not Visible               4b       17408 PSDBLB11550-553-Cluster*
+  05A1  09E:0 Not Visible               4c       17408 PSDBLB11550-553-Cluster*
+  05A2  09E:0 Not Visible               4d       17408 PSDBLB11550-553-Cluster*
+  05A3  09E:0 Not Visible               4e       17408 PSDBLB11550-553-Cluster*
+  05A4  09E:0 Not Visible               4f       17408 PSDBLB11550-553-Cluster*
+  05A5  09E:0 Not Visible               50       17408 PSDBLB11550-553-Cluster*
+  05A6  09E:0 Not Visible               51       17408 PSDBLB11550-553-Cluster*
+  05A7  09E:0 Not Visible               52       17408 PSDBLB11550-553-Cluster*
+  05A8  09E:0 Not Visible               53       17408 PSDBLB11550-553-Cluster*
+  05A9  09E:0 Not Visible               54       17408 PSDBLB11550-553-Cluster*
+  05AA  09E:0 Not Visible               55       17408 PSDBLB11550-553-Cluster*
+  05AB  09E:0 Not Visible               56       17408 PSDBLB11550-553-Cluster*
+  05AC  09E:0 Not Visible               57       17408 PSDBLB11550-553-Cluster*
+  05AD  09E:0 Not Visible               58       17408 PSDBLB11550-553-Cluster*
+  05AE  09E:0 Not Visible               59       17408 PSDBLB11550-553-Cluster*
+  05AF  09E:0 Not Visible               5a       17408 PSDBLB11550-553-Cluster*
+  05B0  09E:0 Not Visible               5b       17408 PSDBLB11550-553-Cluster*
+  05B1  09E:0 Not Visible               5c       17408 PSDBLB11550-553-Cluster*
+  05B2  09E:0 Not Visible               5d       17408 PSDBLB11550-553-Cluster*
+  05B3  09E:0 Not Visible               5e       17408 PSDBLB11550-553-Cluster*
+                                                ------
+  Total Capacity                                8518761
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB11551-02
+Last update time      : 07:50:55 PM on Thu Feb 02,2012
+
+Group last update time: 07:50:55 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5e0b8 [alias: 10000000c9c5e0b8/10000000c9c5e0b8]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  0161  09E:0 Not Visible                0        1024 PSDBLB11550-553-Cluster*
+  0162  09E:0 Not Visible                1        1024 PSDBLB11550-553-Cluster*
+  0163  09E:0 Not Visible                2        1024 PSDBLB11550-553-Cluster*
+  0164  09E:0 Not Visible                3  (M) 204803 PSDBLB11550-553-Cluster*
+  0168  09E:0 Not Visible                4  (M) 204803 PSDBLB11550-553-Cluster*
+  016C  09E:0 Not Visible                5  (M) 204803 PSDBLB11550-553-Cluster*
+  0170  09E:0 Not Visible                6  (M) 204803 PSDBLB11550-553-Cluster*
+  0174  09E:0 Not Visible                7  (M) 204803 PSDBLB11550-553-Cluster*
+  0178  09E:0 Not Visible                8  (M) 204803 PSDBLB11550-553-Cluster*
+  017C  09E:0 Not Visible                9  (M) 204803 PSDBLB11550-553-Cluster*
+  0180  09E:0 Not Visible                a  (M) 204803 PSDBLB11550-553-Cluster*
+  0184  09E:0 Not Visible                b  (M) 204803 PSDBLB11550-553-Cluster*
+  0188  09E:0 Not Visible                c  (M) 204803 PSDBLB11550-553-Cluster*
+  018C  09E:0 Not Visible                d  (M) 204803 PSDBLB11550-553-Cluster*
+  0190  09E:0 Not Visible                e  (M) 204803 PSDBLB11550-553-Cluster*
+  0194  09E:0 Not Visible                f  (M) 204803 PSDBLB11550-553-Cluster*
+  0198  09E:0 Not Visible               10       17408 PSDBLB11550-553-Cluster*
+  0199  09E:0 Not Visible               11       17408 PSDBLB11550-553-Cluster*
+  019A  09E:0 Not Visible               12       17408 PSDBLB11550-553-Cluster*
+  019B  09E:0 Not Visible               13       17408 PSDBLB11550-553-Cluster*
+  019C  09E:0 Not Visible               14       17408 PSDBLB11550-553-Cluster*
+  019D  09E:0 Not Visible               15       17408 PSDBLB11550-553-Cluster*
+  019E  09E:0 Not Visible               16       17408 PSDBLB11550-553-Cluster*
+  019F  09E:0 Not Visible               17       17408 PSDBLB11550-553-Cluster*
+  01A0  09E:0 Not Visible               18       17408 PSDBLB11550-553-Cluster*
+  01A1  09E:0 Not Visible               19       17408 PSDBLB11550-553-Cluster*
+  01A2  09E:0 Not Visible               1a       17408 PSDBLB11550-553-Cluster*
+  01A3  09E:0 Not Visible               1b       17408 PSDBLB11550-553-Cluster*
+  01A4  09E:0 Not Visible               1c      102400 PSDBLB11550-553-Cluster*
+  01A5  09E:0 Not Visible               1d      102400 PSDBLB11550-553-Cluster*
+  01A6  09E:0 Not Visible               1e      102400 PSDBLB11550-553-Cluster*
+  01A7  09E:0 Not Visible               1f      102400 PSDBLB11550-553-Cluster*
+  01A8  09E:0 Not Visible               20      102400 PSDBLB11550-553-Cluster*
+  01A9  09E:0 Not Visible               21  (M) 204803 PSDBLB11550-553-Cluster*
+  01AD  09E:0 Not Visible               22  (M) 204803 PSDBLB11550-553-Cluster*
+  01B1  09E:0 Not Visible               23  (M) 204803 PSDBLB11550-553-Cluster*
+  01B5  09E:0 Not Visible               24  (M) 204803 PSDBLB11550-553-Cluster*
+  01B9  09E:0 Not Visible               25  (M) 204803 PSDBLB11550-553-Cluster*
+  01BD  09E:0 Not Visible               26  (M) 204803 PSDBLB11550-553-Cluster*
+  01C1  09E:0 Not Visible               27  (M) 204803 PSDBLB11550-553-Cluster*
+  01C5  09E:0 Not Visible               28  (M) 204803 PSDBLB11550-553-Cluster*
+  03D2  09E:0 Not Visible               36  (M) 204803 PSDBLB11550-553-Cluster*
+  0492  09E:0 Not Visible               29  (M) 204803 PSDBLB11550-553-Cluster*
+  0496  09E:0 Not Visible               2a  (M) 204803 PSDBLB11550-553-Cluster*
+  049A  09E:0 Not Visible               2b  (M) 204803 PSDBLB11550-553-Cluster*
+  049E  09E:0 Not Visible               2c  (M) 204803 PSDBLB11550-553-Cluster*
+  04A2  09E:0 Not Visible               2d  (M) 204803 PSDBLB11550-553-Cluster*
+  04A6  09E:0 Not Visible               2e  (M) 204803 PSDBLB11550-553-Cluster*
+  04AA  09E:0 Not Visible               2f  (M) 204803 PSDBLB11550-553-Cluster*
+  04AE  09E:0 Not Visible               30  (M) 204803 PSDBLB11550-553-Cluster*
+  04B2  09E:0 Not Visible               31  (M) 204803 PSDBLB11550-553-Cluster*
+  04B6  09E:0 Not Visible               32  (M) 204803 PSDBLB11550-553-Cluster*
+  04BA  09E:0 Not Visible               33  (M) 204803 PSDBLB11550-553-Cluster*
+  04BE  09E:0 Not Visible               34  (M) 204803 PSDBLB11550-553-Cluster*
+  04C2  09E:0 Not Visible               35  (M) 204803 PSDBLB11550-553-Cluster*
+  0590  09E:0 Not Visible               3b       17408 PSDBLB11550-553-Cluster*
+  0591  09E:0 Not Visible               3c       17408 PSDBLB11550-553-Cluster*
+  0592  09E:0 Not Visible               3d       17408 PSDBLB11550-553-Cluster*
+  0593  09E:0 Not Visible               3e       17408 PSDBLB11550-553-Cluster*
+  0594  09E:0 Not Visible               3f       17408 PSDBLB11550-553-Cluster*
+  0595  09E:0 Not Visible               40       17408 PSDBLB11550-553-Cluster*
+  0596  09E:0 Not Visible               41       17408 PSDBLB11550-553-Cluster*
+  0597  09E:0 Not Visible               42       17408 PSDBLB11550-553-Cluster*
+  0598  09E:0 Not Visible               43       17408 PSDBLB11550-553-Cluster*
+  0599  09E:0 Not Visible               44       17408 PSDBLB11550-553-Cluster*
+  059A  09E:0 Not Visible               45       17408 PSDBLB11550-553-Cluster*
+  059B  09E:0 Not Visible               46       17408 PSDBLB11550-553-Cluster*
+  059C  09E:0 Not Visible               47       17408 PSDBLB11550-553-Cluster*
+  059D  09E:0 Not Visible               48       17408 PSDBLB11550-553-Cluster*
+  059E  09E:0 Not Visible               49       17408 PSDBLB11550-553-Cluster*
+  059F  09E:0 Not Visible               4a       17408 PSDBLB11550-553-Cluster*
+  05A0  09E:0 Not Visible               4b       17408 PSDBLB11550-553-Cluster*
+  05A1  09E:0 Not Visible               4c       17408 PSDBLB11550-553-Cluster*
+  05A2  09E:0 Not Visible               4d       17408 PSDBLB11550-553-Cluster*
+  05A3  09E:0 Not Visible               4e       17408 PSDBLB11550-553-Cluster*
+  05A4  09E:0 Not Visible               4f       17408 PSDBLB11550-553-Cluster*
+  05A5  09E:0 Not Visible               50       17408 PSDBLB11550-553-Cluster*
+  05A6  09E:0 Not Visible               51       17408 PSDBLB11550-553-Cluster*
+  05A7  09E:0 Not Visible               52       17408 PSDBLB11550-553-Cluster*
+  05A8  09E:0 Not Visible               53       17408 PSDBLB11550-553-Cluster*
+  05A9  09E:0 Not Visible               54       17408 PSDBLB11550-553-Cluster*
+  05AA  09E:0 Not Visible               55       17408 PSDBLB11550-553-Cluster*
+  05AB  09E:0 Not Visible               56       17408 PSDBLB11550-553-Cluster*
+  05AC  09E:0 Not Visible               57       17408 PSDBLB11550-553-Cluster*
+  05AD  09E:0 Not Visible               58       17408 PSDBLB11550-553-Cluster*
+  05AE  09E:0 Not Visible               59       17408 PSDBLB11550-553-Cluster*
+  05AF  09E:0 Not Visible               5a       17408 PSDBLB11550-553-Cluster*
+  05B0  09E:0 Not Visible               5b       17408 PSDBLB11550-553-Cluster*
+  05B1  09E:0 Not Visible               5c       17408 PSDBLB11550-553-Cluster*
+  05B2  09E:0 Not Visible               5d       17408 PSDBLB11550-553-Cluster*
+  05B3  09E:0 Not Visible               5e       17408 PSDBLB11550-553-Cluster*
+                                                ------
+  Total Capacity                                8518761
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB11553-02
+Last update time      : 07:50:55 PM on Thu Feb 02,2012
+
+Group last update time: 07:50:55 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5d798 [alias: 10000000c9c5d798/10000000c9c5d798]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  0161  09E:0 Not Visible                0        1024 PSDBLB11550-553-Cluster*
+  0162  09E:0 Not Visible                1        1024 PSDBLB11550-553-Cluster*
+  0163  09E:0 Not Visible                2        1024 PSDBLB11550-553-Cluster*
+  0164  09E:0 Not Visible                3  (M) 204803 PSDBLB11550-553-Cluster*
+  0168  09E:0 Not Visible                4  (M) 204803 PSDBLB11550-553-Cluster*
+  016C  09E:0 Not Visible                5  (M) 204803 PSDBLB11550-553-Cluster*
+  0170  09E:0 Not Visible                6  (M) 204803 PSDBLB11550-553-Cluster*
+  0174  09E:0 Not Visible                7  (M) 204803 PSDBLB11550-553-Cluster*
+  0178  09E:0 Not Visible                8  (M) 204803 PSDBLB11550-553-Cluster*
+  017C  09E:0 Not Visible                9  (M) 204803 PSDBLB11550-553-Cluster*
+  0180  09E:0 Not Visible                a  (M) 204803 PSDBLB11550-553-Cluster*
+  0184  09E:0 Not Visible                b  (M) 204803 PSDBLB11550-553-Cluster*
+  0188  09E:0 Not Visible                c  (M) 204803 PSDBLB11550-553-Cluster*
+  018C  09E:0 Not Visible                d  (M) 204803 PSDBLB11550-553-Cluster*
+  0190  09E:0 Not Visible                e  (M) 204803 PSDBLB11550-553-Cluster*
+  0194  09E:0 Not Visible                f  (M) 204803 PSDBLB11550-553-Cluster*
+  0198  09E:0 Not Visible               10       17408 PSDBLB11550-553-Cluster*
+  0199  09E:0 Not Visible               11       17408 PSDBLB11550-553-Cluster*
+  019A  09E:0 Not Visible               12       17408 PSDBLB11550-553-Cluster*
+  019B  09E:0 Not Visible               13       17408 PSDBLB11550-553-Cluster*
+  019C  09E:0 Not Visible               14       17408 PSDBLB11550-553-Cluster*
+  019D  09E:0 Not Visible               15       17408 PSDBLB11550-553-Cluster*
+  019E  09E:0 Not Visible               16       17408 PSDBLB11550-553-Cluster*
+  019F  09E:0 Not Visible               17       17408 PSDBLB11550-553-Cluster*
+  01A0  09E:0 Not Visible               18       17408 PSDBLB11550-553-Cluster*
+  01A1  09E:0 Not Visible               19       17408 PSDBLB11550-553-Cluster*
+  01A2  09E:0 Not Visible               1a       17408 PSDBLB11550-553-Cluster*
+  01A3  09E:0 Not Visible               1b       17408 PSDBLB11550-553-Cluster*
+  01A4  09E:0 Not Visible               1c      102400 PSDBLB11550-553-Cluster*
+  01A5  09E:0 Not Visible               1d      102400 PSDBLB11550-553-Cluster*
+  01A6  09E:0 Not Visible               1e      102400 PSDBLB11550-553-Cluster*
+  01A7  09E:0 Not Visible               1f      102400 PSDBLB11550-553-Cluster*
+  01A8  09E:0 Not Visible               20      102400 PSDBLB11550-553-Cluster*
+  01A9  09E:0 Not Visible               21  (M) 204803 PSDBLB11550-553-Cluster*
+  01AD  09E:0 Not Visible               22  (M) 204803 PSDBLB11550-553-Cluster*
+  01B1  09E:0 Not Visible               23  (M) 204803 PSDBLB11550-553-Cluster*
+  01B5  09E:0 Not Visible               24  (M) 204803 PSDBLB11550-553-Cluster*
+  01B9  09E:0 Not Visible               25  (M) 204803 PSDBLB11550-553-Cluster*
+  01BD  09E:0 Not Visible               26  (M) 204803 PSDBLB11550-553-Cluster*
+  01C1  09E:0 Not Visible               27  (M) 204803 PSDBLB11550-553-Cluster*
+  01C5  09E:0 Not Visible               28  (M) 204803 PSDBLB11550-553-Cluster*
+  03D2  09E:0 Not Visible               36  (M) 204803 PSDBLB11550-553-Cluster*
+  0492  09E:0 Not Visible               29  (M) 204803 PSDBLB11550-553-Cluster*
+  0496  09E:0 Not Visible               2a  (M) 204803 PSDBLB11550-553-Cluster*
+  049A  09E:0 Not Visible               2b  (M) 204803 PSDBLB11550-553-Cluster*
+  049E  09E:0 Not Visible               2c  (M) 204803 PSDBLB11550-553-Cluster*
+  04A2  09E:0 Not Visible               2d  (M) 204803 PSDBLB11550-553-Cluster*
+  04A6  09E:0 Not Visible               2e  (M) 204803 PSDBLB11550-553-Cluster*
+  04AA  09E:0 Not Visible               2f  (M) 204803 PSDBLB11550-553-Cluster*
+  04AE  09E:0 Not Visible               30  (M) 204803 PSDBLB11550-553-Cluster*
+  04B2  09E:0 Not Visible               31  (M) 204803 PSDBLB11550-553-Cluster*
+  04B6  09E:0 Not Visible               32  (M) 204803 PSDBLB11550-553-Cluster*
+  04BA  09E:0 Not Visible               33  (M) 204803 PSDBLB11550-553-Cluster*
+  04BE  09E:0 Not Visible               34  (M) 204803 PSDBLB11550-553-Cluster*
+  04C2  09E:0 Not Visible               35  (M) 204803 PSDBLB11550-553-Cluster*
+  0590  09E:0 Not Visible               3b       17408 PSDBLB11550-553-Cluster*
+  0591  09E:0 Not Visible               3c       17408 PSDBLB11550-553-Cluster*
+  0592  09E:0 Not Visible               3d       17408 PSDBLB11550-553-Cluster*
+  0593  09E:0 Not Visible               3e       17408 PSDBLB11550-553-Cluster*
+  0594  09E:0 Not Visible               3f       17408 PSDBLB11550-553-Cluster*
+  0595  09E:0 Not Visible               40       17408 PSDBLB11550-553-Cluster*
+  0596  09E:0 Not Visible               41       17408 PSDBLB11550-553-Cluster*
+  0597  09E:0 Not Visible               42       17408 PSDBLB11550-553-Cluster*
+  0598  09E:0 Not Visible               43       17408 PSDBLB11550-553-Cluster*
+  0599  09E:0 Not Visible               44       17408 PSDBLB11550-553-Cluster*
+  059A  09E:0 Not Visible               45       17408 PSDBLB11550-553-Cluster*
+  059B  09E:0 Not Visible               46       17408 PSDBLB11550-553-Cluster*
+  059C  09E:0 Not Visible               47       17408 PSDBLB11550-553-Cluster*
+  059D  09E:0 Not Visible               48       17408 PSDBLB11550-553-Cluster*
+  059E  09E:0 Not Visible               49       17408 PSDBLB11550-553-Cluster*
+  059F  09E:0 Not Visible               4a       17408 PSDBLB11550-553-Cluster*
+  05A0  09E:0 Not Visible               4b       17408 PSDBLB11550-553-Cluster*
+  05A1  09E:0 Not Visible               4c       17408 PSDBLB11550-553-Cluster*
+  05A2  09E:0 Not Visible               4d       17408 PSDBLB11550-553-Cluster*
+  05A3  09E:0 Not Visible               4e       17408 PSDBLB11550-553-Cluster*
+  05A4  09E:0 Not Visible               4f       17408 PSDBLB11550-553-Cluster*
+  05A5  09E:0 Not Visible               50       17408 PSDBLB11550-553-Cluster*
+  05A6  09E:0 Not Visible               51       17408 PSDBLB11550-553-Cluster*
+  05A7  09E:0 Not Visible               52       17408 PSDBLB11550-553-Cluster*
+  05A8  09E:0 Not Visible               53       17408 PSDBLB11550-553-Cluster*
+  05A9  09E:0 Not Visible               54       17408 PSDBLB11550-553-Cluster*
+  05AA  09E:0 Not Visible               55       17408 PSDBLB11550-553-Cluster*
+  05AB  09E:0 Not Visible               56       17408 PSDBLB11550-553-Cluster*
+  05AC  09E:0 Not Visible               57       17408 PSDBLB11550-553-Cluster*
+  05AD  09E:0 Not Visible               58       17408 PSDBLB11550-553-Cluster*
+  05AE  09E:0 Not Visible               59       17408 PSDBLB11550-553-Cluster*
+  05AF  09E:0 Not Visible               5a       17408 PSDBLB11550-553-Cluster*
+  05B0  09E:0 Not Visible               5b       17408 PSDBLB11550-553-Cluster*
+  05B1  09E:0 Not Visible               5c       17408 PSDBLB11550-553-Cluster*
+  05B2  09E:0 Not Visible               5d       17408 PSDBLB11550-553-Cluster*
+  05B3  09E:0 Not Visible               5e       17408 PSDBLB11550-553-Cluster*
+                                                ------
+  Total Capacity                                8518761
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB11552-02
+Last update time      : 07:50:55 PM on Thu Feb 02,2012
+
+Group last update time: 07:50:55 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5c554 [alias: 10000000c9c5c554/10000000c9c5c554]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  0161  09E:0 Not Visible                0        1024 PSDBLB11550-553-Cluster*
+  0162  09E:0 Not Visible                1        1024 PSDBLB11550-553-Cluster*
+  0163  09E:0 Not Visible                2        1024 PSDBLB11550-553-Cluster*
+  0164  09E:0 Not Visible                3  (M) 204803 PSDBLB11550-553-Cluster*
+  0168  09E:0 Not Visible                4  (M) 204803 PSDBLB11550-553-Cluster*
+  016C  09E:0 Not Visible                5  (M) 204803 PSDBLB11550-553-Cluster*
+  0170  09E:0 Not Visible                6  (M) 204803 PSDBLB11550-553-Cluster*
+  0174  09E:0 Not Visible                7  (M) 204803 PSDBLB11550-553-Cluster*
+  0178  09E:0 Not Visible                8  (M) 204803 PSDBLB11550-553-Cluster*
+  017C  09E:0 Not Visible                9  (M) 204803 PSDBLB11550-553-Cluster*
+  0180  09E:0 Not Visible                a  (M) 204803 PSDBLB11550-553-Cluster*
+  0184  09E:0 Not Visible                b  (M) 204803 PSDBLB11550-553-Cluster*
+  0188  09E:0 Not Visible                c  (M) 204803 PSDBLB11550-553-Cluster*
+  018C  09E:0 Not Visible                d  (M) 204803 PSDBLB11550-553-Cluster*
+  0190  09E:0 Not Visible                e  (M) 204803 PSDBLB11550-553-Cluster*
+  0194  09E:0 Not Visible                f  (M) 204803 PSDBLB11550-553-Cluster*
+  0198  09E:0 Not Visible               10       17408 PSDBLB11550-553-Cluster*
+  0199  09E:0 Not Visible               11       17408 PSDBLB11550-553-Cluster*
+  019A  09E:0 Not Visible               12       17408 PSDBLB11550-553-Cluster*
+  019B  09E:0 Not Visible               13       17408 PSDBLB11550-553-Cluster*
+  019C  09E:0 Not Visible               14       17408 PSDBLB11550-553-Cluster*
+  019D  09E:0 Not Visible               15       17408 PSDBLB11550-553-Cluster*
+  019E  09E:0 Not Visible               16       17408 PSDBLB11550-553-Cluster*
+  019F  09E:0 Not Visible               17       17408 PSDBLB11550-553-Cluster*
+  01A0  09E:0 Not Visible               18       17408 PSDBLB11550-553-Cluster*
+  01A1  09E:0 Not Visible               19       17408 PSDBLB11550-553-Cluster*
+  01A2  09E:0 Not Visible               1a       17408 PSDBLB11550-553-Cluster*
+  01A3  09E:0 Not Visible               1b       17408 PSDBLB11550-553-Cluster*
+  01A4  09E:0 Not Visible               1c      102400 PSDBLB11550-553-Cluster*
+  01A5  09E:0 Not Visible               1d      102400 PSDBLB11550-553-Cluster*
+  01A6  09E:0 Not Visible               1e      102400 PSDBLB11550-553-Cluster*
+  01A7  09E:0 Not Visible               1f      102400 PSDBLB11550-553-Cluster*
+  01A8  09E:0 Not Visible               20      102400 PSDBLB11550-553-Cluster*
+  01A9  09E:0 Not Visible               21  (M) 204803 PSDBLB11550-553-Cluster*
+  01AD  09E:0 Not Visible               22  (M) 204803 PSDBLB11550-553-Cluster*
+  01B1  09E:0 Not Visible               23  (M) 204803 PSDBLB11550-553-Cluster*
+  01B5  09E:0 Not Visible               24  (M) 204803 PSDBLB11550-553-Cluster*
+  01B9  09E:0 Not Visible               25  (M) 204803 PSDBLB11550-553-Cluster*
+  01BD  09E:0 Not Visible               26  (M) 204803 PSDBLB11550-553-Cluster*
+  01C1  09E:0 Not Visible               27  (M) 204803 PSDBLB11550-553-Cluster*
+  01C5  09E:0 Not Visible               28  (M) 204803 PSDBLB11550-553-Cluster*
+  03D2  09E:0 Not Visible               36  (M) 204803 PSDBLB11550-553-Cluster*
+  0492  09E:0 Not Visible               29  (M) 204803 PSDBLB11550-553-Cluster*
+  0496  09E:0 Not Visible               2a  (M) 204803 PSDBLB11550-553-Cluster*
+  049A  09E:0 Not Visible               2b  (M) 204803 PSDBLB11550-553-Cluster*
+  049E  09E:0 Not Visible               2c  (M) 204803 PSDBLB11550-553-Cluster*
+  04A2  09E:0 Not Visible               2d  (M) 204803 PSDBLB11550-553-Cluster*
+  04A6  09E:0 Not Visible               2e  (M) 204803 PSDBLB11550-553-Cluster*
+  04AA  09E:0 Not Visible               2f  (M) 204803 PSDBLB11550-553-Cluster*
+  04AE  09E:0 Not Visible               30  (M) 204803 PSDBLB11550-553-Cluster*
+  04B2  09E:0 Not Visible               31  (M) 204803 PSDBLB11550-553-Cluster*
+  04B6  09E:0 Not Visible               32  (M) 204803 PSDBLB11550-553-Cluster*
+  04BA  09E:0 Not Visible               33  (M) 204803 PSDBLB11550-553-Cluster*
+  04BE  09E:0 Not Visible               34  (M) 204803 PSDBLB11550-553-Cluster*
+  04C2  09E:0 Not Visible               35  (M) 204803 PSDBLB11550-553-Cluster*
+  0590  09E:0 Not Visible               3b       17408 PSDBLB11550-553-Cluster*
+  0591  09E:0 Not Visible               3c       17408 PSDBLB11550-553-Cluster*
+  0592  09E:0 Not Visible               3d       17408 PSDBLB11550-553-Cluster*
+  0593  09E:0 Not Visible               3e       17408 PSDBLB11550-553-Cluster*
+  0594  09E:0 Not Visible               3f       17408 PSDBLB11550-553-Cluster*
+  0595  09E:0 Not Visible               40       17408 PSDBLB11550-553-Cluster*
+  0596  09E:0 Not Visible               41       17408 PSDBLB11550-553-Cluster*
+  0597  09E:0 Not Visible               42       17408 PSDBLB11550-553-Cluster*
+  0598  09E:0 Not Visible               43       17408 PSDBLB11550-553-Cluster*
+  0599  09E:0 Not Visible               44       17408 PSDBLB11550-553-Cluster*
+  059A  09E:0 Not Visible               45       17408 PSDBLB11550-553-Cluster*
+  059B  09E:0 Not Visible               46       17408 PSDBLB11550-553-Cluster*
+  059C  09E:0 Not Visible               47       17408 PSDBLB11550-553-Cluster*
+  059D  09E:0 Not Visible               48       17408 PSDBLB11550-553-Cluster*
+  059E  09E:0 Not Visible               49       17408 PSDBLB11550-553-Cluster*
+  059F  09E:0 Not Visible               4a       17408 PSDBLB11550-553-Cluster*
+  05A0  09E:0 Not Visible               4b       17408 PSDBLB11550-553-Cluster*
+  05A1  09E:0 Not Visible               4c       17408 PSDBLB11550-553-Cluster*
+  05A2  09E:0 Not Visible               4d       17408 PSDBLB11550-553-Cluster*
+  05A3  09E:0 Not Visible               4e       17408 PSDBLB11550-553-Cluster*
+  05A4  09E:0 Not Visible               4f       17408 PSDBLB11550-553-Cluster*
+  05A5  09E:0 Not Visible               50       17408 PSDBLB11550-553-Cluster*
+  05A6  09E:0 Not Visible               51       17408 PSDBLB11550-553-Cluster*
+  05A7  09E:0 Not Visible               52       17408 PSDBLB11550-553-Cluster*
+  05A8  09E:0 Not Visible               53       17408 PSDBLB11550-553-Cluster*
+  05A9  09E:0 Not Visible               54       17408 PSDBLB11550-553-Cluster*
+  05AA  09E:0 Not Visible               55       17408 PSDBLB11550-553-Cluster*
+  05AB  09E:0 Not Visible               56       17408 PSDBLB11550-553-Cluster*
+  05AC  09E:0 Not Visible               57       17408 PSDBLB11550-553-Cluster*
+  05AD  09E:0 Not Visible               58       17408 PSDBLB11550-553-Cluster*
+  05AE  09E:0 Not Visible               59       17408 PSDBLB11550-553-Cluster*
+  05AF  09E:0 Not Visible               5a       17408 PSDBLB11550-553-Cluster*
+  05B0  09E:0 Not Visible               5b       17408 PSDBLB11550-553-Cluster*
+  05B1  09E:0 Not Visible               5c       17408 PSDBLB11550-553-Cluster*
+  05B2  09E:0 Not Visible               5d       17408 PSDBLB11550-553-Cluster*
+  05B3  09E:0 Not Visible               5e       17408 PSDBLB11550-553-Cluster*
+                                                ------
+  Total Capacity                                8518761
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB2a518-01
+Last update time      : 10:13:35 PM on Thu Feb 02,2012
+
+Group last update time: 10:13:35 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5d68c [alias: 10000000c9c5d68c/10000000c9c5d68c]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  01C9  07E:0 Not Visible                0        1024 PSDBLB2a509_2a518-519-C*
+  01CA  07E:0 Not Visible                1        1024 PSDBLB2a509_2a518-519-C*
+  01CB  07E:0 Not Visible                2        1024 PSDBLB2a509_2a518-519-C*
+  01CC  07E:0 Not Visible                3  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D0  07E:0 Not Visible                4  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D4  07E:0 Not Visible                5  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D8  07E:0 Not Visible                6  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01DC  07E:0 Not Visible                7  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E0  07E:0 Not Visible                8  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E4  07E:0 Not Visible                9  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E8  07E:0 Not Visible                a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01EC  07E:0 Not Visible                b       17408 PSDBLB2a509_2a518-519-C*
+  01ED  07E:0 Not Visible                c       17408 PSDBLB2a509_2a518-519-C*
+  01EE  07E:0 Not Visible                d       17408 PSDBLB2a509_2a518-519-C*
+  01EF  07E:0 Not Visible                e       17408 PSDBLB2a509_2a518-519-C*
+  01F0  07E:0 Not Visible                f       17408 PSDBLB2a509_2a518-519-C*
+  01F1  07E:0 Not Visible               10       17408 PSDBLB2a509_2a518-519-C*
+  01F2  07E:0 Not Visible               11      102400 PSDBLB2a509_2a518-519-C*
+  01F3  07E:0 Not Visible               12      102400 PSDBLB2a509_2a518-519-C*
+  01F4  07E:0 Not Visible               13      102400 PSDBLB2a509_2a518-519-C*
+  01F5  07E:0 Not Visible               14      102400 PSDBLB2a509_2a518-519-C*
+  01F6  07E:0 Not Visible               15      102400 PSDBLB2a509_2a518-519-C*
+  01F7  07E:0 Not Visible               16  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FB  07E:0 Not Visible               17  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FF  07E:0 Not Visible               18  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0203  07E:0 Not Visible               19  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0207  07E:0 Not Visible               1a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03A6  07E:0 Not Visible               27  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AA  07E:0 Not Visible               28  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AE  07E:0 Not Visible               29  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B2  07E:0 Not Visible               2a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B6  07E:0 Not Visible               2b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03E6  07E:0 Not Visible               2c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EA  07E:0 Not Visible               2d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EE  07E:0 Not Visible               2e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F2  07E:0 Not Visible               2f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F6  07E:0 Not Visible               30  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0422  07E:0 Not Visible               23  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0426  07E:0 Not Visible               24  (M) 204803 PSDBLB2a509_2a518-519-C*
+  042A  07E:0 Not Visible               25       17408 PSDBLB2a509_2a518-519-C*
+  042B  07E:0 Not Visible               26       17408 PSDBLB2a509_2a518-519-C*
+  043C  07E:0 Not Visible               3b      102400 PSDBLB2a509_2a518-519-C*
+  043D  07E:0 Not Visible               3c      102400 PSDBLB2a509_2a518-519-C*
+  043E  07E:0 Not Visible               3d      102400 PSDBLB2a509_2a518-519-C*
+  043F  07E:0 Not Visible               3e      102400 PSDBLB2a509_2a518-519-C*
+  0440  07E:0 Not Visible               3f      102400 PSDBLB2a509_2a518-519-C*
+  0472  07E:0 Not Visible               1b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0476  07E:0 Not Visible               1c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047A  07E:0 Not Visible               1d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047E  07E:0 Not Visible               1e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0482  07E:0 Not Visible               1f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0486  07E:0 Not Visible               20  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048A  07E:0 Not Visible               21  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048E  07E:0 Not Visible               22  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054A  07E:0 Not Visible               31  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054E  07E:0 Not Visible               32  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0552  07E:0 Not Visible               33  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0556  07E:0 Not Visible               34  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055A  07E:0 Not Visible               35  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055E  07E:0 Not Visible               36  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0562  07E:0 Not Visible               37  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0566  07E:0 Not Visible               38  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056A  07E:0 Not Visible               39  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056E  07E:0 Not Visible               3a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05C8  07E:0 Not Visible               40  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05CC  07E:0 Not Visible               41  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D0  07E:0 Not Visible               42  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D4  07E:0 Not Visible               43  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D8  07E:0 Not Visible               44  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05DC  07E:0 Not Visible               45  (M) 204803 PSDBLB2a509_2a518-519-C*
+                                                ------
+  Total Capacity                                11201683
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB2a509-01
+Last update time      : 10:13:35 PM on Thu Feb 02,2012
+
+Group last update time: 10:13:35 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5d77e [alias: 10000000c9c5d77e/10000000c9c5d77e]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  01C9  07E:0 Not Visible                0        1024 PSDBLB2a509_2a518-519-C*
+  01CA  07E:0 Not Visible                1        1024 PSDBLB2a509_2a518-519-C*
+  01CB  07E:0 Not Visible                2        1024 PSDBLB2a509_2a518-519-C*
+  01CC  07E:0 Not Visible                3  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D0  07E:0 Not Visible                4  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D4  07E:0 Not Visible                5  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D8  07E:0 Not Visible                6  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01DC  07E:0 Not Visible                7  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E0  07E:0 Not Visible                8  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E4  07E:0 Not Visible                9  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E8  07E:0 Not Visible                a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01EC  07E:0 Not Visible                b       17408 PSDBLB2a509_2a518-519-C*
+  01ED  07E:0 Not Visible                c       17408 PSDBLB2a509_2a518-519-C*
+  01EE  07E:0 Not Visible                d       17408 PSDBLB2a509_2a518-519-C*
+  01EF  07E:0 Not Visible                e       17408 PSDBLB2a509_2a518-519-C*
+  01F0  07E:0 Not Visible                f       17408 PSDBLB2a509_2a518-519-C*
+  01F1  07E:0 Not Visible               10       17408 PSDBLB2a509_2a518-519-C*
+  01F2  07E:0 Not Visible               11      102400 PSDBLB2a509_2a518-519-C*
+  01F3  07E:0 Not Visible               12      102400 PSDBLB2a509_2a518-519-C*
+  01F4  07E:0 Not Visible               13      102400 PSDBLB2a509_2a518-519-C*
+  01F5  07E:0 Not Visible               14      102400 PSDBLB2a509_2a518-519-C*
+  01F6  07E:0 Not Visible               15      102400 PSDBLB2a509_2a518-519-C*
+  01F7  07E:0 Not Visible               16  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FB  07E:0 Not Visible               17  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FF  07E:0 Not Visible               18  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0203  07E:0 Not Visible               19  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0207  07E:0 Not Visible               1a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03A6  07E:0 Not Visible               27  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AA  07E:0 Not Visible               28  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AE  07E:0 Not Visible               29  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B2  07E:0 Not Visible               2a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B6  07E:0 Not Visible               2b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03E6  07E:0 Not Visible               2c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EA  07E:0 Not Visible               2d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EE  07E:0 Not Visible               2e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F2  07E:0 Not Visible               2f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F6  07E:0 Not Visible               30  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0422  07E:0 Not Visible               23  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0426  07E:0 Not Visible               24  (M) 204803 PSDBLB2a509_2a518-519-C*
+  042A  07E:0 Not Visible               25       17408 PSDBLB2a509_2a518-519-C*
+  042B  07E:0 Not Visible               26       17408 PSDBLB2a509_2a518-519-C*
+  043C  07E:0 Not Visible               3b      102400 PSDBLB2a509_2a518-519-C*
+  043D  07E:0 Not Visible               3c      102400 PSDBLB2a509_2a518-519-C*
+  043E  07E:0 Not Visible               3d      102400 PSDBLB2a509_2a518-519-C*
+  043F  07E:0 Not Visible               3e      102400 PSDBLB2a509_2a518-519-C*
+  0440  07E:0 Not Visible               3f      102400 PSDBLB2a509_2a518-519-C*
+  0472  07E:0 Not Visible               1b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0476  07E:0 Not Visible               1c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047A  07E:0 Not Visible               1d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047E  07E:0 Not Visible               1e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0482  07E:0 Not Visible               1f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0486  07E:0 Not Visible               20  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048A  07E:0 Not Visible               21  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048E  07E:0 Not Visible               22  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054A  07E:0 Not Visible               31  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054E  07E:0 Not Visible               32  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0552  07E:0 Not Visible               33  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0556  07E:0 Not Visible               34  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055A  07E:0 Not Visible               35  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055E  07E:0 Not Visible               36  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0562  07E:0 Not Visible               37  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0566  07E:0 Not Visible               38  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056A  07E:0 Not Visible               39  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056E  07E:0 Not Visible               3a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05C8  07E:0 Not Visible               40  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05CC  07E:0 Not Visible               41  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D0  07E:0 Not Visible               42  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D4  07E:0 Not Visible               43  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D8  07E:0 Not Visible               44  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05DC  07E:0 Not Visible               45  (M) 204803 PSDBLB2a509_2a518-519-C*
+                                                ------
+  Total Capacity                                11201683
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB2a519-01
+Last update time      : 10:13:35 PM on Thu Feb 02,2012
+
+Group last update time: 10:13:35 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5c9c2 [alias: 10000000c9c5c9c2/10000000c9c5c9c2]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  01C9  07E:0 Not Visible                0        1024 PSDBLB2a509_2a518-519-C*
+  01CA  07E:0 Not Visible                1        1024 PSDBLB2a509_2a518-519-C*
+  01CB  07E:0 Not Visible                2        1024 PSDBLB2a509_2a518-519-C*
+  01CC  07E:0 Not Visible                3  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D0  07E:0 Not Visible                4  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D4  07E:0 Not Visible                5  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D8  07E:0 Not Visible                6  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01DC  07E:0 Not Visible                7  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E0  07E:0 Not Visible                8  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E4  07E:0 Not Visible                9  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E8  07E:0 Not Visible                a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01EC  07E:0 Not Visible                b       17408 PSDBLB2a509_2a518-519-C*
+  01ED  07E:0 Not Visible                c       17408 PSDBLB2a509_2a518-519-C*
+  01EE  07E:0 Not Visible                d       17408 PSDBLB2a509_2a518-519-C*
+  01EF  07E:0 Not Visible                e       17408 PSDBLB2a509_2a518-519-C*
+  01F0  07E:0 Not Visible                f       17408 PSDBLB2a509_2a518-519-C*
+  01F1  07E:0 Not Visible               10       17408 PSDBLB2a509_2a518-519-C*
+  01F2  07E:0 Not Visible               11      102400 PSDBLB2a509_2a518-519-C*
+  01F3  07E:0 Not Visible               12      102400 PSDBLB2a509_2a518-519-C*
+  01F4  07E:0 Not Visible               13      102400 PSDBLB2a509_2a518-519-C*
+  01F5  07E:0 Not Visible               14      102400 PSDBLB2a509_2a518-519-C*
+  01F6  07E:0 Not Visible               15      102400 PSDBLB2a509_2a518-519-C*
+  01F7  07E:0 Not Visible               16  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FB  07E:0 Not Visible               17  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FF  07E:0 Not Visible               18  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0203  07E:0 Not Visible               19  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0207  07E:0 Not Visible               1a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03A6  07E:0 Not Visible               27  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AA  07E:0 Not Visible               28  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AE  07E:0 Not Visible               29  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B2  07E:0 Not Visible               2a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B6  07E:0 Not Visible               2b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03E6  07E:0 Not Visible               2c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EA  07E:0 Not Visible               2d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EE  07E:0 Not Visible               2e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F2  07E:0 Not Visible               2f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F6  07E:0 Not Visible               30  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0422  07E:0 Not Visible               23  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0426  07E:0 Not Visible               24  (M) 204803 PSDBLB2a509_2a518-519-C*
+  042A  07E:0 Not Visible               25       17408 PSDBLB2a509_2a518-519-C*
+  042B  07E:0 Not Visible               26       17408 PSDBLB2a509_2a518-519-C*
+  043C  07E:0 Not Visible               3b      102400 PSDBLB2a509_2a518-519-C*
+  043D  07E:0 Not Visible               3c      102400 PSDBLB2a509_2a518-519-C*
+  043E  07E:0 Not Visible               3d      102400 PSDBLB2a509_2a518-519-C*
+  043F  07E:0 Not Visible               3e      102400 PSDBLB2a509_2a518-519-C*
+  0440  07E:0 Not Visible               3f      102400 PSDBLB2a509_2a518-519-C*
+  0472  07E:0 Not Visible               1b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0476  07E:0 Not Visible               1c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047A  07E:0 Not Visible               1d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047E  07E:0 Not Visible               1e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0482  07E:0 Not Visible               1f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0486  07E:0 Not Visible               20  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048A  07E:0 Not Visible               21  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048E  07E:0 Not Visible               22  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054A  07E:0 Not Visible               31  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054E  07E:0 Not Visible               32  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0552  07E:0 Not Visible               33  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0556  07E:0 Not Visible               34  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055A  07E:0 Not Visible               35  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055E  07E:0 Not Visible               36  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0562  07E:0 Not Visible               37  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0566  07E:0 Not Visible               38  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056A  07E:0 Not Visible               39  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056E  07E:0 Not Visible               3a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05C8  07E:0 Not Visible               40  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05CC  07E:0 Not Visible               41  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D0  07E:0 Not Visible               42  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D4  07E:0 Not Visible               43  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D8  07E:0 Not Visible               44  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05DC  07E:0 Not Visible               45  (M) 204803 PSDBLB2a509_2a518-519-C*
+                                                ------
+  Total Capacity                                11201683
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB2a518-02
+Last update time      : 10:15:53 PM on Thu Feb 02,2012
+
+Group last update time: 10:15:53 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5ea2c [alias: 10000000c9c5ea2c/10000000c9c5ea2c]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  01C9  09E:0 Not Visible                0        1024 PSDBLB2a509_2a518-519-C*
+  01CA  09E:0 Not Visible                1        1024 PSDBLB2a509_2a518-519-C*
+  01CB  09E:0 Not Visible                2        1024 PSDBLB2a509_2a518-519-C*
+  01CC  09E:0 Not Visible                3  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D0  09E:0 Not Visible                4  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D4  09E:0 Not Visible                5  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D8  09E:0 Not Visible                6  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01DC  09E:0 Not Visible                7  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E0  09E:0 Not Visible                8  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E4  09E:0 Not Visible                9  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E8  09E:0 Not Visible                a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01EC  09E:0 Not Visible                b       17408 PSDBLB2a509_2a518-519-C*
+  01ED  09E:0 Not Visible                c       17408 PSDBLB2a509_2a518-519-C*
+  01EE  09E:0 Not Visible                d       17408 PSDBLB2a509_2a518-519-C*
+  01EF  09E:0 Not Visible                e       17408 PSDBLB2a509_2a518-519-C*
+  01F0  09E:0 Not Visible                f       17408 PSDBLB2a509_2a518-519-C*
+  01F1  09E:0 Not Visible               10       17408 PSDBLB2a509_2a518-519-C*
+  01F2  09E:0 Not Visible               11      102400 PSDBLB2a509_2a518-519-C*
+  01F3  09E:0 Not Visible               12      102400 PSDBLB2a509_2a518-519-C*
+  01F4  09E:0 Not Visible               13      102400 PSDBLB2a509_2a518-519-C*
+  01F5  09E:0 Not Visible               14      102400 PSDBLB2a509_2a518-519-C*
+  01F6  09E:0 Not Visible               15      102400 PSDBLB2a509_2a518-519-C*
+  01F7  09E:0 Not Visible               16  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FB  09E:0 Not Visible               17  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FF  09E:0 Not Visible               18  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0203  09E:0 Not Visible               19  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0207  09E:0 Not Visible               1a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03A6  09E:0 Not Visible               27  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AA  09E:0 Not Visible               28  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AE  09E:0 Not Visible               29  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B2  09E:0 Not Visible               2a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B6  09E:0 Not Visible               2b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03E6  09E:0 Not Visible               2c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EA  09E:0 Not Visible               2d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EE  09E:0 Not Visible               2e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F2  09E:0 Not Visible               2f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F6  09E:0 Not Visible               30  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0422  09E:0 Not Visible               23  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0426  09E:0 Not Visible               24  (M) 204803 PSDBLB2a509_2a518-519-C*
+  042A  09E:0 Not Visible               25       17408 PSDBLB2a509_2a518-519-C*
+  042B  09E:0 Not Visible               26       17408 PSDBLB2a509_2a518-519-C*
+  043C  09E:0 Not Visible               3b      102400 PSDBLB2a509_2a518-519-C*
+  043D  09E:0 Not Visible               3c      102400 PSDBLB2a509_2a518-519-C*
+  043E  09E:0 Not Visible               3d      102400 PSDBLB2a509_2a518-519-C*
+  043F  09E:0 Not Visible               3e      102400 PSDBLB2a509_2a518-519-C*
+  0440  09E:0 Not Visible               3f      102400 PSDBLB2a509_2a518-519-C*
+  0472  09E:0 Not Visible               1b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0476  09E:0 Not Visible               1c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047A  09E:0 Not Visible               1d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047E  09E:0 Not Visible               1e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0482  09E:0 Not Visible               1f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0486  09E:0 Not Visible               20  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048A  09E:0 Not Visible               21  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048E  09E:0 Not Visible               22  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054A  09E:0 Not Visible               31  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054E  09E:0 Not Visible               32  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0552  09E:0 Not Visible               33  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0556  09E:0 Not Visible               34  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055A  09E:0 Not Visible               35  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055E  09E:0 Not Visible               36  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0562  09E:0 Not Visible               37  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0566  09E:0 Not Visible               38  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056A  09E:0 Not Visible               39  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056E  09E:0 Not Visible               3a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05C8  09E:0 Not Visible               40  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05CC  09E:0 Not Visible               41  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D0  09E:0 Not Visible               42  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D4  09E:0 Not Visible               43  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D8  09E:0 Not Visible               44  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05DC  09E:0 Not Visible               45  (M) 204803 PSDBLB2a509_2a518-519-C*
+                                                ------
+  Total Capacity                                11201683
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB2a509-02
+Last update time      : 10:15:53 PM on Thu Feb 02,2012
+
+Group last update time: 10:15:53 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c55a6a [alias: 10000000c9c55a6a/10000000c9c55a6a]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  01C9  09E:0 Not Visible                0        1024 PSDBLB2a509_2a518-519-C*
+  01CA  09E:0 Not Visible                1        1024 PSDBLB2a509_2a518-519-C*
+  01CB  09E:0 Not Visible                2        1024 PSDBLB2a509_2a518-519-C*
+  01CC  09E:0 Not Visible                3  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D0  09E:0 Not Visible                4  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D4  09E:0 Not Visible                5  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D8  09E:0 Not Visible                6  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01DC  09E:0 Not Visible                7  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E0  09E:0 Not Visible                8  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E4  09E:0 Not Visible                9  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E8  09E:0 Not Visible                a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01EC  09E:0 Not Visible                b       17408 PSDBLB2a509_2a518-519-C*
+  01ED  09E:0 Not Visible                c       17408 PSDBLB2a509_2a518-519-C*
+  01EE  09E:0 Not Visible                d       17408 PSDBLB2a509_2a518-519-C*
+  01EF  09E:0 Not Visible                e       17408 PSDBLB2a509_2a518-519-C*
+  01F0  09E:0 Not Visible                f       17408 PSDBLB2a509_2a518-519-C*
+  01F1  09E:0 Not Visible               10       17408 PSDBLB2a509_2a518-519-C*
+  01F2  09E:0 Not Visible               11      102400 PSDBLB2a509_2a518-519-C*
+  01F3  09E:0 Not Visible               12      102400 PSDBLB2a509_2a518-519-C*
+  01F4  09E:0 Not Visible               13      102400 PSDBLB2a509_2a518-519-C*
+  01F5  09E:0 Not Visible               14      102400 PSDBLB2a509_2a518-519-C*
+  01F6  09E:0 Not Visible               15      102400 PSDBLB2a509_2a518-519-C*
+  01F7  09E:0 Not Visible               16  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FB  09E:0 Not Visible               17  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FF  09E:0 Not Visible               18  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0203  09E:0 Not Visible               19  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0207  09E:0 Not Visible               1a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03A6  09E:0 Not Visible               27  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AA  09E:0 Not Visible               28  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AE  09E:0 Not Visible               29  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B2  09E:0 Not Visible               2a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B6  09E:0 Not Visible               2b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03E6  09E:0 Not Visible               2c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EA  09E:0 Not Visible               2d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EE  09E:0 Not Visible               2e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F2  09E:0 Not Visible               2f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F6  09E:0 Not Visible               30  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0422  09E:0 Not Visible               23  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0426  09E:0 Not Visible               24  (M) 204803 PSDBLB2a509_2a518-519-C*
+  042A  09E:0 Not Visible               25       17408 PSDBLB2a509_2a518-519-C*
+  042B  09E:0 Not Visible               26       17408 PSDBLB2a509_2a518-519-C*
+  043C  09E:0 Not Visible               3b      102400 PSDBLB2a509_2a518-519-C*
+  043D  09E:0 Not Visible               3c      102400 PSDBLB2a509_2a518-519-C*
+  043E  09E:0 Not Visible               3d      102400 PSDBLB2a509_2a518-519-C*
+  043F  09E:0 Not Visible               3e      102400 PSDBLB2a509_2a518-519-C*
+  0440  09E:0 Not Visible               3f      102400 PSDBLB2a509_2a518-519-C*
+  0472  09E:0 Not Visible               1b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0476  09E:0 Not Visible               1c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047A  09E:0 Not Visible               1d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047E  09E:0 Not Visible               1e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0482  09E:0 Not Visible               1f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0486  09E:0 Not Visible               20  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048A  09E:0 Not Visible               21  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048E  09E:0 Not Visible               22  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054A  09E:0 Not Visible               31  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054E  09E:0 Not Visible               32  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0552  09E:0 Not Visible               33  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0556  09E:0 Not Visible               34  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055A  09E:0 Not Visible               35  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055E  09E:0 Not Visible               36  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0562  09E:0 Not Visible               37  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0566  09E:0 Not Visible               38  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056A  09E:0 Not Visible               39  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056E  09E:0 Not Visible               3a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05C8  09E:0 Not Visible               40  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05CC  09E:0 Not Visible               41  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D0  09E:0 Not Visible               42  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D4  09E:0 Not Visible               43  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D8  09E:0 Not Visible               44  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05DC  09E:0 Not Visible               45  (M) 204803 PSDBLB2a509_2a518-519-C*
+                                                ------
+  Total Capacity                                11201683
+
+
+Symmetrix ID          : 000192604552
+
+Initiator Group Name  : PSDBLB2a519-02
+Last update time      : 10:15:53 PM on Thu Feb 02,2012
+
+Group last update time: 10:15:53 PM on Thu Feb 02,2012
+
+  Host Initiators
+    {
+      WWN  : 10000000c9c5dd12 [alias: 10000000c9c5dd12/10000000c9c5dd12]
+    }
+
+  Sym                                 Host      Cap
+  Dev   Dir:P Physical Device Name    Lun  Attr (MB)   Masking View Name
+  ----- ----- ----------------------- ---- ---- ------ ------------------------
+  01C9  09E:0 Not Visible                0        1024 PSDBLB2a509_2a518-519-C*
+  01CA  09E:0 Not Visible                1        1024 PSDBLB2a509_2a518-519-C*
+  01CB  09E:0 Not Visible                2        1024 PSDBLB2a509_2a518-519-C*
+  01CC  09E:0 Not Visible                3  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D0  09E:0 Not Visible                4  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D4  09E:0 Not Visible                5  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01D8  09E:0 Not Visible                6  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01DC  09E:0 Not Visible                7  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E0  09E:0 Not Visible                8  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E4  09E:0 Not Visible                9  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01E8  09E:0 Not Visible                a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01EC  09E:0 Not Visible                b       17408 PSDBLB2a509_2a518-519-C*
+  01ED  09E:0 Not Visible                c       17408 PSDBLB2a509_2a518-519-C*
+  01EE  09E:0 Not Visible                d       17408 PSDBLB2a509_2a518-519-C*
+  01EF  09E:0 Not Visible                e       17408 PSDBLB2a509_2a518-519-C*
+  01F0  09E:0 Not Visible                f       17408 PSDBLB2a509_2a518-519-C*
+  01F1  09E:0 Not Visible               10       17408 PSDBLB2a509_2a518-519-C*
+  01F2  09E:0 Not Visible               11      102400 PSDBLB2a509_2a518-519-C*
+  01F3  09E:0 Not Visible               12      102400 PSDBLB2a509_2a518-519-C*
+  01F4  09E:0 Not Visible               13      102400 PSDBLB2a509_2a518-519-C*
+  01F5  09E:0 Not Visible               14      102400 PSDBLB2a509_2a518-519-C*
+  01F6  09E:0 Not Visible               15      102400 PSDBLB2a509_2a518-519-C*
+  01F7  09E:0 Not Visible               16  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FB  09E:0 Not Visible               17  (M) 204803 PSDBLB2a509_2a518-519-C*
+  01FF  09E:0 Not Visible               18  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0203  09E:0 Not Visible               19  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0207  09E:0 Not Visible               1a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03A6  09E:0 Not Visible               27  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AA  09E:0 Not Visible               28  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03AE  09E:0 Not Visible               29  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B2  09E:0 Not Visible               2a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03B6  09E:0 Not Visible               2b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03E6  09E:0 Not Visible               2c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EA  09E:0 Not Visible               2d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03EE  09E:0 Not Visible               2e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F2  09E:0 Not Visible               2f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  03F6  09E:0 Not Visible               30  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0422  09E:0 Not Visible               23  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0426  09E:0 Not Visible               24  (M) 204803 PSDBLB2a509_2a518-519-C*
+  042A  09E:0 Not Visible               25       17408 PSDBLB2a509_2a518-519-C*
+  042B  09E:0 Not Visible               26       17408 PSDBLB2a509_2a518-519-C*
+  043C  09E:0 Not Visible               3b      102400 PSDBLB2a509_2a518-519-C*
+  043D  09E:0 Not Visible               3c      102400 PSDBLB2a509_2a518-519-C*
+  043E  09E:0 Not Visible               3d      102400 PSDBLB2a509_2a518-519-C*
+  043F  09E:0 Not Visible               3e      102400 PSDBLB2a509_2a518-519-C*
+  0440  09E:0 Not Visible               3f      102400 PSDBLB2a509_2a518-519-C*
+  0472  09E:0 Not Visible               1b  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0476  09E:0 Not Visible               1c  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047A  09E:0 Not Visible               1d  (M) 204803 PSDBLB2a509_2a518-519-C*
+  047E  09E:0 Not Visible               1e  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0482  09E:0 Not Visible               1f  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0486  09E:0 Not Visible               20  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048A  09E:0 Not Visible               21  (M) 204803 PSDBLB2a509_2a518-519-C*
+  048E  09E:0 Not Visible               22  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054A  09E:0 Not Visible               31  (M) 204803 PSDBLB2a509_2a518-519-C*
+  054E  09E:0 Not Visible               32  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0552  09E:0 Not Visible               33  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0556  09E:0 Not Visible               34  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055A  09E:0 Not Visible               35  (M) 204803 PSDBLB2a509_2a518-519-C*
+  055E  09E:0 Not Visible               36  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0562  09E:0 Not Visible               37  (M) 204803 PSDBLB2a509_2a518-519-C*
+  0566  09E:0 Not Visible               38  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056A  09E:0 Not Visible               39  (M) 204803 PSDBLB2a509_2a518-519-C*
+  056E  09E:0 Not Visible               3a  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05C8  09E:0 Not Visible               40  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05CC  09E:0 Not Visible               41  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D0  09E:0 Not Visible               42  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D4  09E:0 Not Visible               43  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05D8  09E:0 Not Visible               44  (M) 204803 PSDBLB2a509_2a518-519-C*
+  05DC  09E:0 Not Visible               45  (M) 204803 PSDBLB2a509_2a518-519-C*
+                                                ------
+  Total Capacity                                11201683
+

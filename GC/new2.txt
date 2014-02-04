@@ -1,0 +1,30 @@
+ Application time: 0.9925990 seconds
+   48 Total time for which application threads were stopped: 0.0005570 seconds
+   49 Application time: 1.0026930 seconds
+   50 Total time for which application threads were stopped: 0.0006890 seconds
+   51 Application time: 0.6837420 seconds4
+   
+   52 {Heap before GC invocations=0 (full 0):
+   53  par new generation   total 235968K, used 184772K [0x0000000720000000, 0x0000000730000000, 0x0000000730000000)
+   54   eden space 209792K,  88% used [0x0000000720000000, 0x000000072b4712a0, 0x000000072cce0000)
+   55   from space 26176K,   0% used [0x000000072cce0000, 0x000000072cce0000, 0x000000072e670000)
+   56   to   space 26176K,   0% used [0x000000072e670000, 0x000000072e670000, 0x0000000730000000)
+   57  concurrent mark-sweep generation total 786432K, used 0K [0x0000000730000000, 0x0000000760000000, 0x00000007e0000000)
+   58  concurrent-mark-sweep perm gen total 22400K, used 22301K [0x00000007e0000000, 0x00000007e15e0000, 0x0000000800000000)
+   59 
+   
+   2013-05-07T20:26:04.259-0400: 9.408: [Full GC (System) 9.408: [CMS: 0K->10972K(786432K), 0.5440730 secs] 184795K->10972K(1022400K), [CMS Perm : 22319K->21852K(22400K)], 0.5445170 secs] [Times: user=0.61 sys=0.08, real=0.54 secs]
+   
+   60 Heap after GC invocations=1 (full 1):
+   61  par new generation   total 235968K, used 0K [0x0000000720000000, 0x0000000730000000, 0x0000000730000000)
+   62   eden space 209792K,   0% used [0x0000000720000000, 0x0000000720000000, 0x000000072cce0000)
+   63   from space 26176K,   0% used [0x000000072cce0000, 0x000000072cce0000, 0x000000072e670000)
+   64   to   space 26176K,   0% used [0x000000072e670000, 0x000000072e670000, 0x0000000730000000)
+   65  concurrent mark-sweep generation total 786432K, used 10887K [0x0000000730000000, 0x0000000760000000, 0x00000007e0000000)
+   66  concurrent-mark-sweep perm gen total 36396K, used 21835K [0x00000007e0000000, 0x00000007e238b000, 0x0000000800000000)
+   67 }
+   
+   68 Total time for which application threads were stopped: 0.4654460 seconds
+   69 Application time: 0.0292150 seconds
+   70 Total time for which application threads were stopped: 0.0004050 seconds
+   71 Application time: 0.0043340 seconds
